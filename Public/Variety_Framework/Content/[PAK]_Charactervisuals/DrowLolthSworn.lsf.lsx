@@ -7,7 +7,7 @@
 				<!-- Female -->
 				<node id="Resource"> Female
 					<attribute id="BaseVisual" type="FixedString" value="c05cb1dc-81eb-647b-3e03-e9bf4301fcc4" />
-					<attribute id="BodySetVisual" type="FixedString" value="9e43f0e4-d063-d85c-87b4-470d569645db" />
+					<attribute id="BodySetVisual" type="FixedString" value="bfab41c1-063d-4201-aac9-80cacf7875f3" />
 					<attribute id="ID" type="FixedString" value="187188d8-929a-d800-d5c3-33453a8cc25a" />
 					<attribute id="Name" type="LSString" value="Elves_Female_Drow_Lolth_Player_e285d7b5-6b09-4857-89aa-a91e9e6898e5" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
