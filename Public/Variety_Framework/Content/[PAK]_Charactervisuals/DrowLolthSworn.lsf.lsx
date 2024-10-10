@@ -327,7 +327,7 @@
 				<!-- Male -->
 				<node id="Resource"> Male
 					<attribute id="BaseVisual" type="FixedString" value="4deb74a3-fe9a-723f-89b5-799a97335cc4" />
-					<attribute id="BodySetVisual" type="FixedString" value="017534b5-2b56-4160-9d8c-7712d3a413ea" />
+					<attribute id="BodySetVisual" type="FixedString" value="78e78e16-87b9-4728-bf88-54520471a67b" />
 					<attribute id="ID" type="FixedString" value="f2f3f92a-d471-bee8-064e-0614e238b0d0" />
 					<attribute id="Name" type="LSString" value="Elves_Male_Drow_Lolth_Player_bc3cde9c-cf02-48ff-b44f-a53a1e009a35" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
