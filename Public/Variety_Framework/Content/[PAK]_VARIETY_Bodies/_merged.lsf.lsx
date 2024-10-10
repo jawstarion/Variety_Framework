@@ -5676,7 +5676,7 @@
 				<node id="Resource"> Half Wood-Elf F MSK
 					<attribute id="Name" type="LSString" value="VARIETY_F_HalfWoodELf_MSK" /> 
 					<attribute id="ID" type="FixedString" value="466de595-a600-49b3-9047-c9de7d6d4f18" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodELf/Female/VARIETY_F_HalfWoodELf_MSK.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodElf/Female/VARIETY_F_HalfWoodELf_MSK.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -5690,7 +5690,7 @@
 				<node id="Resource"> Half Wood-Elf F NM
 					<attribute id="Name" type="LSString" value="VARIETY_F_HalfWoodELf_NM" /> 
 					<attribute id="ID" type="FixedString" value="645a6439-cdd9-474e-bc13-be7e2588a69e" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodELf/Female/VARIETY_F_HalfWoodELf_NM.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodElf/Female/VARIETY_F_HalfWoodELf_NM.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -5704,7 +5704,7 @@
 				<node id="Resource"> Half Wood-Elf F HMVY
 					<attribute id="Name" type="LSString" value="VARIETY_F_HalfWoodELf_HMVY" /> 
 					<attribute id="ID" type="FixedString" value="ab8647ad-3c4b-4dcf-9aa2-9cd9b9be736d" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodELf/Female/VARIETY_F_HalfWoodELf_HMVY.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodElf/Female/VARIETY_F_HalfWoodELf_HMVY.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -5718,7 +5718,7 @@
 				<node id="Resource"> Half Wood-Elf F CLEA
 					<attribute id="Name" type="LSString" value="VARIETY_F_HalfWoodELf_CLEA" /> 
 					<attribute id="ID" type="FixedString" value="b509e254-88ce-477b-b98e-c7b965169d43" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodELf/Female/VARIETY_F_HalfWoodELf_CLEA.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodElf/Female/VARIETY_F_HalfWoodELf_CLEA.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -5746,7 +5746,7 @@
 				<node id="Resource"> Half Wood-Elf M MSK
 					<attribute id="Name" type="LSString" value="VARIETY_M_HalfWoodELf_MSK" /> 
 					<attribute id="ID" type="FixedString" value="fbd95402-0cbc-43e1-8295-644b1ac35290" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodELf/Male/VARIETY_M_HalfWoodELf_MSK.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodElf/Male/VARIETY_M_HalfWoodELf_MSK.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -5760,7 +5760,7 @@
 				<node id="Resource"> Half Wood-Elf M NM
 					<attribute id="Name" type="LSString" value="VARIETY_M_HalfWoodELf_NM" /> 
 					<attribute id="ID" type="FixedString" value="6b6bd56f-fb3b-44aa-81c5-14f7d967eeae" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodELf/Male/VARIETY_M_HalfWoodELf_NM.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodElf/Male/VARIETY_M_HalfWoodELf_NM.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -5774,7 +5774,7 @@
 				<node id="Resource"> Half Wood-Elf M HMVY
 					<attribute id="Name" type="LSString" value="VARIETY_M_HalfWoodELf_HMVY" /> 
 					<attribute id="ID" type="FixedString" value="359c1499-05c9-4216-a416-a5eb7e9e9667" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodELf/Male/VARIETY_M_HalfWoodELf_HMVY.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodElf/Male/VARIETY_M_HalfWoodELf_HMVY.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -5788,7 +5788,7 @@
 				<node id="Resource"> Half Wood-Elf M CLEA
 					<attribute id="Name" type="LSString" value="VARIETY_M_HalfWoodELf_CLEA" /> 
 					<attribute id="ID" type="FixedString" value="6f9ea5ef-47dd-41d0-bb75-adde60dcda01" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodELf/Male/VARIETY_M_HalfWoodELf_CLEA.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodElf/Male/VARIETY_M_HalfWoodELf_CLEA.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6147,9 +6147,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodELf/Male/VARIETY_M_HalfWoodElf_Body.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodElf/Male/VARIETY_M_HalfWoodElf_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodELf/Male/VARIETY_M_HalfWoodElf_Body.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/HALF_ELF/HalfWoodElf/Male/VARIETY_M_HalfWoodElf_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
 					<children>
 						<node id="Base" />
