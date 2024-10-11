@@ -7,7 +7,7 @@
 				<!-- Female -->
 				<node id="Resource"> Female
 					<attribute id="BaseVisual" type="FixedString" value="c05cb1dc-81eb-647b-3e03-e9bf4301fcc4" />
-					<attribute id="BodySetVisual" type="FixedString" value="9e43f0e4-d063-d85c-87b4-470d569645db" />
+					<attribute id="BodySetVisual" type="FixedString" value="c271e5c9-779a-4bd2-8927-b86da8977cf4" />
 					<attribute id="ID" type="FixedString" value="27b58c9a-5efa-e736-d81e-98d124a6bb8a" />
 					<attribute id="Name" type="LSString" value="Elves_Female_Drow_Seldarine_Player_7a727073-1f49-4396-b899-b71d9d706cd5" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
