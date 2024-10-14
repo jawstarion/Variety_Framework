@@ -350,7 +350,7 @@
 				<!-- Male -->
 				<node id="Resource"> Male
 					<attribute id="BaseVisual" type="FixedString" value="3773c64c-c5a9-9baf-1b85-6bee029ee044" />
-					<attribute id="BodySetVisual" type="FixedString" value="38cee76d-1a75-4419-9293-52e47fda65e9" />
+					<attribute id="BodySetVisual" type="FixedString" value="5ba96d99-1663-4d10-82dd-5287d945c1b3" />
 					<attribute id="ID" type="FixedString" value="40b6c0b8-693d-3726-6819-acbc8481f208" />
 					<attribute id="Name" type="LSString" value="Humans_Male_Player_fd7f2707-8f86-4836-bda8-e0db99c389cc" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
