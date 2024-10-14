@@ -9412,7 +9412,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="6f528faa-33c3-4eee-98ec-1a8c4c71467a" />
-							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HalfDrowElf_Genital_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_HalfDrowElf_Genital_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
@@ -9453,7 +9453,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="d8b2e230-7304-4513-a89a-46edd19adfd6" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Body_Genital_B.HUM_M_NKD_Body_Genital_B_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HalfDrowElf_Genital.Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
@@ -9496,7 +9496,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="99fd8977-351d-46fb-bc90-869dcc2a18aa" />
-							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HalfHighElf_Genital_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_HalfHighElf_Genital_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
@@ -9514,7 +9514,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="1bc003b0-0afe-495b-04fb-c4902ec82d00" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="a0018641-0f1d-41b5-afd2-a7660d3afc21" /> Half High-Elf M
+					<attribute id="ID" type="FixedString" value="dc760b09-6b58-474c-bf77-4eb2cfe36516" /> Half High-Elf M
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="VARIETY_M_HalfHighElf_Genital" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
@@ -9536,8 +9536,8 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="591bb59c-677d-405a-a9ca-a989fdc26ab8" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Body_Genital_B.HUM_M_NKD_Body_Genital_B_Mesh.0" />
+							<attribute id="MaterialID" type="FixedString" value="e2420275-70f4-46a9-8a93-458f6adc1063" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HalfHighElf_Genital.Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
@@ -9580,7 +9580,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="259c8d2a-dd30-42f7-80b9-a9bc3addc2d1" />
-							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HalfWoodElf_Genital_Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_HalfWoodElf_Genital_Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
@@ -9620,8 +9620,8 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="e2420275-70f4-46a9-8a93-458f6adc1063" />
-							<attribute id="ObjectID" type="FixedString" value="HUM_M_NKD_Body_Genital_B.HUM_M_NKD_Body_Genital_B_Mesh.0" />
+							<attribute id="MaterialID" type="FixedString" value="591bb59c-677d-405a-a9ca-a989fdc26ab8" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HalfWoodElf_Genital.Mesh.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
