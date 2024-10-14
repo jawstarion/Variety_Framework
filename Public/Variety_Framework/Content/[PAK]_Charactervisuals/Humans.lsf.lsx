@@ -7,7 +7,7 @@
 				<!-- Female -->
 				<node id="Resource"> Female
 					<attribute id="BaseVisual" type="FixedString" value="4b8ff439-0a98-6e6c-ad48-c695c1c29b27" />
-					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" />
+					<attribute id="BodySetVisual" type="FixedString" value="4a97e6c4-3bcc-44ec-86f9-e8891f3e69f1" />
 					<attribute id="ID" type="FixedString" value="65508880-7afc-74cf-97eb-8d85c80b79b4" />
 					<attribute id="Name" type="LSString" value="Humans_Female_Player_df4aee69-40ea-480d-aa96-1abe82c28b66" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
