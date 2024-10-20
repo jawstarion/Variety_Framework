@@ -848,7 +848,7 @@
 						</node>
 					</children>
 				</node>
-				<node id="Resource">
+				<node id="Resource"> Male Strong
 					<attribute id="BaseVisual" type="FixedString" value="20b3ea2f-40db-418e-81fd-5dabe2d3e62b" />
 					<attribute id="BodySetVisual" type="FixedString" value="f84bf07c-a31f-47e2-8236-daa4ba34f949" />
 					<attribute id="ID" type="FixedString" value="eac7c851-cb57-75bc-8d07-683b79d65f70" />
