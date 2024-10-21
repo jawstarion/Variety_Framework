@@ -1,0 +1,9 @@
+The **Variety Framework** is a mod for Baldur's Gate 3 and is intended as a resource for other modders to build on.
+
+It sets up custom body and tattoo file paths for every individual subrace. What this means for mod authors and users is that by using the Framework, it will be possible to set up modded bodies, body textures and body tattoos individually per subrace.
+
+For example: a mod author or user may decide they want a certain body enabled for their Lolth-Sworn Drow character, but not for their Seldarine Drows. They can do so by using the setup provided by this framework.
+
+Please note that the mod does not change anything visually, it merely sets up the required code and file paths to build on.
+
+The entries are unique per subrace, as well as limited to player characters only. This means that if the mod was used to set up a custom body for male humans, it would only change the body of the player character, not any other NPCs who use the male human body.
