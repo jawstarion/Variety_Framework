@@ -641,8 +641,8 @@
 				<node id="Resource"> Male
 					<attribute id="BaseVisual" type="FixedString" value="a3f2cad3-11d3-4316-4670-6bf33caf5d61" />
 					<attribute id="BodySetVisual" type="FixedString" value="82bd50fd-e250-4131-a193-e64b63c95a64" />
-					<attribute id="ID" type="FixedString" value="d598ca76-ca77-2fb1-3010-ebff8dcaf3c5" />
-					<attribute id="Name" type="LSString" value="HalfElves_Male_High_Player_cc2efa0d-d72b-4394-bb11-57f4f494127a" />
+					<attribute id="ID" type="FixedString" value="0d8094d2-9d1e-6da2-b028-a1e376df46ce" />
+					<attribute id="Name" type="LSString" value="HalfElves_Male_High_Player_Dev_782183f9-ceb5-4a96-8ac4-56af0319641d" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
