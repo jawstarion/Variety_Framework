@@ -200,11 +200,11 @@
 						</node>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="0" />
-							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 							<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
-							<attribute id="Value" type="float" value="0" />
+							<attribute id="Value" type="float" value="1" />
 						</node>
 						<node id="ScalarParameters">
 							<attribute id="BaseValue" type="float" value="1" />
@@ -424,12 +424,12 @@
 						</node>
 						<node id="Vector3Parameters">
 							<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 							<attribute id="IsColor" type="bool" value="True" />
 							<attribute id="ParameterName" type="FixedString" value="BodyTattooColor" />
-							<attribute id="Value" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
+							<attribute id="Value" type="fvec3" value="0 0 0" />
 						</node>
 						<node id="Vector3Parameters">
 							<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
@@ -504,13 +504,13 @@
 							<attribute id="Value" type="fvec3" value="0.12941177 0.007843138 0.003921569" />
 						</node>
 						<node id="VectorParameters">
-							<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-							<attribute id="Enabled" type="bool" value="False" />
+							<attribute id="BaseValue" type="fvec4" value="1 0 0 0" />
+							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 							<attribute id="IsColor" type="bool" value="False" />
 							<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-							<attribute id="Value" type="fvec4" value="0 0 0 0" />
+							<attribute id="Value" type="fvec4" value="1 0 0 0" />
 						</node>
 					</children>
 				</node>
