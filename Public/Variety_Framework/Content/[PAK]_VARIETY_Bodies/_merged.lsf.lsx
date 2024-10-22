@@ -429,7 +429,7 @@
 							<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 							<attribute id="IsColor" type="bool" value="True" />
 							<attribute id="ParameterName" type="FixedString" value="BodyTattooColor" />
-							<attribute id="Value" type="fvec3" value="0 0 0" />
+							<attribute id="Value" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
 						</node>
 						<node id="Vector3Parameters">
 							<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
@@ -937,7 +937,7 @@
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooColor" />
-								<attribute id="Value" type="fvec3" value="0 0 0" />
+								<attribute id="Value" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
@@ -1216,7 +1216,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -1363,7 +1363,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="f2fdb54b-d01e-47dd-867c-b8fea09ce24d" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -1440,7 +1440,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -1521,12 +1521,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -1724,7 +1724,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -1871,7 +1871,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="e4a25847-2b97-4178-be5a-ecdb9d260b75" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -1948,7 +1948,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -2029,12 +2029,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -2742,7 +2742,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -2889,7 +2889,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="68b3744a-3c7b-4282-9b88-b3d4ce7a83ca" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -2966,7 +2966,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -3047,12 +3047,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -3250,7 +3250,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -3397,7 +3397,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="913f07ed-a79c-4f1f-aab1-653f92485c2b" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -3474,7 +3474,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -3555,12 +3555,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -3758,7 +3758,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -3905,7 +3905,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="9a19d1ec-03be-4ce6-9ebd-45b16491623a" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -3982,7 +3982,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -4063,12 +4063,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -4269,7 +4269,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -4416,7 +4416,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="4f036fa4-b9d2-4795-8e2a-00ed47933d82" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -4493,7 +4493,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -4574,12 +4574,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -4777,7 +4777,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -4924,7 +4924,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="565ebed8-fcb2-41ce-a29f-68616a152d04" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -5001,7 +5001,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -5082,12 +5082,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -5285,7 +5285,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -5432,7 +5432,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="03d48a5c-088c-4d50-b8cb-2a3c1db19408" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -5509,7 +5509,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -5590,12 +5590,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -5793,7 +5793,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -5940,7 +5940,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="6a7bec1b-c0ee-4732-b52d-9cb244f93677" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -6017,7 +6017,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -6098,12 +6098,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -6303,7 +6303,7 @@
 								</node>
 								<node id="ScalarParameters">
 									<attribute id="BaseValue" type="float" value="0" />
-									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 									<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -6450,7 +6450,7 @@
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 									<attribute id="ID" type="FixedString" value="da4dc257-8345-472f-bb26-3634b0f0d59a" /> Tattoo
-									<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+									<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 								</node>
 								<node id="Texture2DParameters">
 									<attribute id="Enabled" type="bool" value="False" />
@@ -6527,7 +6527,7 @@
 								</node>
 								<node id="Vector3Parameters">
 									<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 									<attribute id="IsColor" type="bool" value="True" />
@@ -6608,12 +6608,12 @@
 								</node>
 								<node id="VectorParameters">
 									<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 									<attribute id="IsColor" type="bool" value="False" />
 									<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-									<attribute id="Value" type="fvec4" value="0 0 0 0" />
+									<attribute id="Value" type="fvec4" value="1 0 0 0" />
 								</node>
 							</children>
 				</node>
@@ -6811,7 +6811,7 @@
 								</node>
 								<node id="ScalarParameters">
 									<attribute id="BaseValue" type="float" value="0" />
-									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 									<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -6958,7 +6958,7 @@
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 									<attribute id="ID" type="FixedString" value="d7950699-fdb3-41b2-85a7-b357b898edb3" /> Tattoo
-									<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+									<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 								</node>
 								<node id="Texture2DParameters">
 									<attribute id="Enabled" type="bool" value="False" />
@@ -7035,7 +7035,7 @@
 								</node>
 								<node id="Vector3Parameters">
 									<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 									<attribute id="IsColor" type="bool" value="True" />
@@ -7116,12 +7116,12 @@
 								</node>
 								<node id="VectorParameters">
 									<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 									<attribute id="IsColor" type="bool" value="False" />
 									<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-									<attribute id="Value" type="fvec4" value="0 0 0 0" />
+									<attribute id="Value" type="fvec4" value="1 0 0 0" />
 								</node>
 							</children>
 				</node>
@@ -7319,7 +7319,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -7466,7 +7466,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="b0e14272-938f-40a8-8e23-547e8b300058" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -7543,7 +7543,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -7624,12 +7624,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -7827,7 +7827,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -7974,7 +7974,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="d6d0a9ef-e06f-4c4e-994b-e3fa49e034d1" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -8051,7 +8051,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -8132,12 +8132,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>				
@@ -8338,7 +8338,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -8485,7 +8485,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="d862a175-81ca-41f1-bf20-31c8527f5e90" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -8562,7 +8562,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -8643,12 +8643,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -8846,7 +8846,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -8993,7 +8993,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="0568ca57-fb3a-49c5-9ce8-9546d94a1fae" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -9070,7 +9070,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -9151,12 +9151,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -9354,7 +9354,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -9501,7 +9501,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="f68e2eb5-12bd-4f4b-b144-b7878a0a7f6c" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -9578,7 +9578,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -9659,12 +9659,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -9862,7 +9862,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -10009,7 +10009,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="0018b1fe-2fc0-4123-90d9-351dd3bd6352" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -10086,7 +10086,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -10167,12 +10167,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -10372,7 +10372,7 @@
 								</node>
 								<node id="ScalarParameters">
 									<attribute id="BaseValue" type="float" value="0" />
-									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 									<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -10519,7 +10519,7 @@
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 									<attribute id="ID" type="FixedString" value="6af26e23-5626-41a4-93cc-0996beab6d72" /> Tattoo
-									<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+									<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 								</node>
 								<node id="Texture2DParameters">
 									<attribute id="Enabled" type="bool" value="False" />
@@ -10596,7 +10596,7 @@
 								</node>
 								<node id="Vector3Parameters">
 									<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 									<attribute id="IsColor" type="bool" value="True" />
@@ -10677,12 +10677,12 @@
 								</node>
 								<node id="VectorParameters">
 									<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 									<attribute id="IsColor" type="bool" value="False" />
 									<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-									<attribute id="Value" type="fvec4" value="0 0 0 0" />
+									<attribute id="Value" type="fvec4" value="1 0 0 0" />
 								</node>
 							</children>
 				</node>
@@ -10880,7 +10880,7 @@
 									</node>
 									<node id="ScalarParameters">
 										<attribute id="BaseValue" type="float" value="0" />
-										<attribute id="Enabled" type="bool" value="False" />
+										<attribute id="Enabled" type="bool" value="True" />
 										<attribute id="ExportAsPreset" type="bool" value="True" />
 										<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 										<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -11027,7 +11027,7 @@
 										<attribute id="ExportAsPreset" type="bool" value="True" />
 										<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 										<attribute id="ID" type="FixedString" value="ac87c6b2-fdd0-4204-84b7-b268bc068524" /> Tattoo
-										<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+										<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 									</node>
 									<node id="Texture2DParameters">
 										<attribute id="Enabled" type="bool" value="False" />
@@ -11104,7 +11104,7 @@
 									</node>
 									<node id="Vector3Parameters">
 										<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-										<attribute id="Enabled" type="bool" value="False" />
+										<attribute id="Enabled" type="bool" value="True" />
 										<attribute id="ExportAsPreset" type="bool" value="True" />
 										<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 										<attribute id="IsColor" type="bool" value="True" />
@@ -11185,12 +11185,12 @@
 									</node>
 									<node id="VectorParameters">
 										<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-										<attribute id="Enabled" type="bool" value="False" />
+										<attribute id="Enabled" type="bool" value="True" />
 										<attribute id="ExportAsPreset" type="bool" value="True" />
 										<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 										<attribute id="IsColor" type="bool" value="False" />
 										<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-										<attribute id="Value" type="fvec4" value="0 0 0 0" />
+										<attribute id="Value" type="fvec4" value="1 0 0 0" />
 									</node>
 								</children>
 				</node>
@@ -11388,7 +11388,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -11535,7 +11535,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="e0c67b13-b319-4d56-8867-f95168d74034" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -11612,7 +11612,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -11693,12 +11693,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -11896,7 +11896,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -12043,7 +12043,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="007e688a-315c-4ef4-8d5c-b950c4ad925e" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -12120,7 +12120,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -12201,12 +12201,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -12406,7 +12406,7 @@
 								</node>
 								<node id="ScalarParameters">
 									<attribute id="BaseValue" type="float" value="0" />
-									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 									<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -12553,7 +12553,7 @@
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 									<attribute id="ID" type="FixedString" value="9fc41109-e233-4044-834e-fa18d8daf4bd" /> Tattoo
-									<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+									<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 								</node>
 								<node id="Texture2DParameters">
 									<attribute id="Enabled" type="bool" value="False" />
@@ -12630,7 +12630,7 @@
 								</node>
 								<node id="Vector3Parameters">
 									<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 									<attribute id="IsColor" type="bool" value="True" />
@@ -12711,12 +12711,12 @@
 								</node>
 								<node id="VectorParameters">
 									<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 									<attribute id="IsColor" type="bool" value="False" />
 									<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-									<attribute id="Value" type="fvec4" value="0 0 0 0" />
+									<attribute id="Value" type="fvec4" value="1 0 0 0" />
 								</node>
 							</children>
 				</node>	
@@ -12914,7 +12914,7 @@
 								</node>
 								<node id="ScalarParameters">
 									<attribute id="BaseValue" type="float" value="0" />
-									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 									<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -13061,7 +13061,7 @@
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 									<attribute id="ID" type="FixedString" value="30ce20e5-d4cf-4269-a160-0063cb978599" /> Tattoo
-									<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+									<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 								</node>
 								<node id="Texture2DParameters">
 									<attribute id="Enabled" type="bool" value="False" />
@@ -13138,7 +13138,7 @@
 								</node>
 								<node id="Vector3Parameters">
 									<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 									<attribute id="IsColor" type="bool" value="True" />
@@ -13219,12 +13219,12 @@
 								</node>
 								<node id="VectorParameters">
 									<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Enabled" type="bool" value="True" />
 									<attribute id="ExportAsPreset" type="bool" value="True" />
 									<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 									<attribute id="IsColor" type="bool" value="False" />
 									<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-									<attribute id="Value" type="fvec4" value="0 0 0 0" />
+									<attribute id="Value" type="fvec4" value="1 0 0 0" />
 								</node>
 							</children>
 				</node>	
@@ -13422,7 +13422,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -13569,7 +13569,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="e93bf530-1dbd-4add-862b-66fe840b8d66" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -13646,7 +13646,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -13727,12 +13727,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -13930,7 +13930,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -14077,7 +14077,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="7c65eeac-b3f1-4798-9464-172173aff711" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -14154,7 +14154,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -14235,12 +14235,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -14441,7 +14441,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -14588,7 +14588,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="853f8286-b9d8-4dc9-a3db-b7a655462dc7" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -14665,7 +14665,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -14746,12 +14746,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -14949,7 +14949,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -15096,7 +15096,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="d1256c3a-829f-45a3-b85e-e668c6fd4585" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -15173,7 +15173,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -15254,12 +15254,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -15457,7 +15457,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -15604,7 +15604,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="2b7702a8-34fc-4e15-835b-2bf7ec9ea683" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -15681,7 +15681,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -15762,12 +15762,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
@@ -15965,7 +15965,7 @@
 							</node>
 							<node id="ScalarParameters">
 								<attribute id="BaseValue" type="float" value="0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIndex" />
@@ -16112,7 +16112,7 @@
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
 								<attribute id="ID" type="FixedString" value="18361009-8b69-423c-a71a-b751cb7dd09c" /> Tattoo
-								<attribute id="ParameterName" type="FixedString" value="TattooAtlas" />
+								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
 								<attribute id="Enabled" type="bool" value="False" />
@@ -16189,7 +16189,7 @@
 							</node>
 							<node id="Vector3Parameters">
 								<attribute id="BaseValue" type="fvec3" value="0.018484231 0.027027028 0.018484231" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="True" />
@@ -16270,12 +16270,12 @@
 							</node>
 							<node id="VectorParameters">
 								<attribute id="BaseValue" type="fvec4" value="0 0 0 0" />
-								<attribute id="Enabled" type="bool" value="False" />
+								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="04Tattoo" />
 								<attribute id="IsColor" type="bool" value="False" />
 								<attribute id="ParameterName" type="FixedString" value="BodyTattooIntensity" />
-								<attribute id="Value" type="fvec4" value="0 0 0 0" />
+								<attribute id="Value" type="fvec4" value="1 0 0 0" />
 							</node>
 						</children>
 				</node>
