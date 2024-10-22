@@ -1027,7 +1027,7 @@
 					<attribute id="ID" type="FixedString" value="a29502b5-d972-4193-81e9-455d34838ec7" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_FS_DrowLolth_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -1535,7 +1535,7 @@
 					<attribute id="ID" type="FixedString" value="38471514-2103-4189-889b-d7095bb14b7f" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_MS_DrowLolth_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -2553,7 +2553,7 @@
 					<attribute id="ID" type="FixedString" value="20a2a32f-1823-488f-a728-8572deb25e6d" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_M_DrowSeldarine_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -3061,7 +3061,7 @@
 					<attribute id="ID" type="FixedString" value="232af7f1-ea79-438b-97ad-f806feeb2977" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_FS_DrowSeldarine_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -3569,7 +3569,7 @@
 					<attribute id="ID" type="FixedString" value="2ca9f6f6-3240-4d4a-b7ec-105e36ddad4c" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_MS_DrowSeldarine_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -4080,7 +4080,7 @@
 					<attribute id="ID" type="FixedString" value="833c75a7-cd00-4e3b-822b-015125382e52" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_F_HighElf_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -4588,7 +4588,7 @@
 					<attribute id="ID" type="FixedString" value="c0e6fae3-8a1b-453a-a26e-fd0786301ed0" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_M_HighElf_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -5096,7 +5096,7 @@
 					<attribute id="ID" type="FixedString" value="cc85c55c-b7a0-4a04-b5ec-49f2a5ec02ce" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_FS_HighElf_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -5604,7 +5604,7 @@
 					<attribute id="ID" type="FixedString" value="43567a48-2b9f-46b0-8f78-73e2597c10ea" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_MS_HighElf_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -6114,7 +6114,7 @@
 						<attribute id="ID" type="FixedString" value="35c8e2f5-3b33-4077-a555-39732160245e" />
 						<attribute id="MaterialType" type="uint8" value="18" />
 						<attribute id="Name" type="LSString" value="VARIETY_F_WoodElf_Body_Textures" />
-						<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+						<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 						<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 							<children>
 								<node id="ScalarParameters">
@@ -6622,7 +6622,7 @@
 						<attribute id="ID" type="FixedString" value="76e0b122-7de0-4a5d-a144-246d2356a084" />
 						<attribute id="MaterialType" type="uint8" value="18" />
 						<attribute id="Name" type="LSString" value="VARIETY_M_WoodElf_Body_Textures" />
-						<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+						<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 						<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 							<children>
 								<node id="ScalarParameters">
@@ -7130,7 +7130,7 @@
 					<attribute id="ID" type="FixedString" value="b684aa58-5d1e-4507-a4e4-c1a9eb02f4cf" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_FS_WoodElf_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -7638,7 +7638,7 @@
 					<attribute id="ID" type="FixedString" value="2722b92a-d593-4b87-826c-1f6125a8bf78" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_MS_WoodElf_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -8149,7 +8149,7 @@
 					<attribute id="ID" type="FixedString" value="2ec51b22-80b6-411c-907a-fb4715a5b327" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_F_HalfDrowElf_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -8657,7 +8657,7 @@
 					<attribute id="ID" type="FixedString" value="1bbbaa73-cdb2-4110-97e4-0dfa1996f2f6" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_M_HalfDrowElf_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -9165,7 +9165,7 @@
 					<attribute id="ID" type="FixedString" value="c83597ab-898c-4093-aefc-f8e4426299ac" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_FS_HalfDrowElf_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -9673,7 +9673,7 @@
 					<attribute id="ID" type="FixedString" value="0378096c-52fc-49cc-ba2b-0479a5f2ab1a" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_MS_HalfDrowElf_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -10183,7 +10183,7 @@
 						<attribute id="ID" type="FixedString" value="add6005b-3c96-4bbf-9593-0664bf33e7b9" />
 						<attribute id="MaterialType" type="uint8" value="18" />
 						<attribute id="Name" type="LSString" value="VARIETY_F_HalfHighElf_Body_Textures" />
-						<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+						<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 						<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 							<children>
 								<node id="ScalarParameters">
@@ -10691,7 +10691,7 @@
 							<attribute id="ID" type="FixedString" value="0357da48-2bca-43aa-b9a2-2f7d0dd1869f" />
 							<attribute id="MaterialType" type="uint8" value="18" />
 							<attribute id="Name" type="LSString" value="VARIETY_M_HalfHighElf_Body_Textures" />
-							<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+							<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 							<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 								<children>
 									<node id="ScalarParameters">
@@ -11199,7 +11199,7 @@
 					<attribute id="ID" type="FixedString" value="2152dafd-abd4-412b-b13c-e25e5c747e49" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_FS_HalfHighElf_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -11707,7 +11707,7 @@
 					<attribute id="ID" type="FixedString" value="8dca1f6c-7151-4066-b33f-becde9c156d0" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_MS_HalfHighElf_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -12217,7 +12217,7 @@
 						<attribute id="ID" type="FixedString" value="eb319c56-256d-45c2-9e76-207f85f225b7" />
 						<attribute id="MaterialType" type="uint8" value="18" />
 						<attribute id="Name" type="LSString" value="VARIETY_F_HalfWoodElf_Body_Textures" />
-						<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+						<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 						<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 							<children>
 								<node id="ScalarParameters">
@@ -12725,7 +12725,7 @@
 						<attribute id="ID" type="FixedString" value="fc692ef6-bcb2-4ca1-8a1b-9d18430550b5" />
 						<attribute id="MaterialType" type="uint8" value="18" />
 						<attribute id="Name" type="LSString" value="VARIETY_M_HalfWoodElf_Body_Textures" />
-						<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+						<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 						<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 							<children>
 								<node id="ScalarParameters">
@@ -13233,7 +13233,7 @@
 					<attribute id="ID" type="FixedString" value="90822e3e-2880-4537-87de-eb4ff0595c4a" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_FS_HalfWoodElf_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
@@ -13741,7 +13741,7 @@
 					<attribute id="ID" type="FixedString" value="8b83b2dc-ff56-4eca-b48a-ee74a92e8fec" />
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_MS_HalfWoodElf_Body_Textures" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Characters/Trips_Skin_Body_Old.lsf" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
 							<node id="ScalarParameters">
