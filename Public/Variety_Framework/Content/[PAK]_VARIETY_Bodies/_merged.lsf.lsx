@@ -14076,7 +14076,7 @@
 								<attribute id="Enabled" type="bool" value="True" />
 								<attribute id="ExportAsPreset" type="bool" value="True" />
 								<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-								<attribute id="ID" type="FixedString" value="7c65eeac-b3f1-4798-9464-172173aff711" /> Tattoo
+								<attribute id="ID" type="FixedString" value="460d03e6-9243-4e09-833a-12eaac7dae3a" /> Tattoo
 								<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 							</node>
 							<node id="Texture2DParameters">
