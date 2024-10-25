@@ -19624,7 +19624,7 @@
 					<attribute id="SoftbodyResourceID" type="FixedString" value="aad0d538-f1ce-e669-7728-ec54575c0076" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/HUMAN/FemaleStrong/VARIETY_FS_Human_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/HUMAN/FemaleStrong/VARIETY_FS_Human.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/HUMAN/FemaleStrong/VARIETY_FS_Human_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 					<children>
 						<node id="AnimationWaterfall">
