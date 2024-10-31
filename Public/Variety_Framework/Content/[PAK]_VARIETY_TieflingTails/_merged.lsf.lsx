@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+        <!-- Asmodeus Start -->
+				<node id="Resource"> Asmodeus F Tail
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
+					<attribute id="BoundsMax" type="fvec3" value="0.053680077 1.1736133 1.2248805" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05368012 0.41450235 0.06630516" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="08dfb650-a6d4-4676-9a79-706c550211a1" /> Asmodeus F Tail
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="VARIETY_F_Asmodeus_Tail" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="63ac4e80-72f2-55bb-1fe7-eb8c7a7e020b" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework_Tieflings/Asmodeus/Female/TAIL/VARIETY_F_Asmodeus_Tail.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework_Tieflings/Asmodeus/Female/TAIL/VARIETY_F_Asmodeus_Tail.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725667" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="622f4ebc-4ed1-f6c8-c6be-685042309170" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0ce5189d-ce77-ce73-b10a-0e124ca99b28" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="2090aee1-c814-4e6e-bd56-d5fc60b0e009" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Asmodeus_Tail.Mesh.0" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Asmodeus M Tail 
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="f4648ee1-bb8a-1054-e18f-2dc61b7348ab" />
+					<attribute id="BoundsMax" type="fvec3" value="0.048339758 1.21575 1.3414863" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.048339758 0.34907287 0.080708206" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="14fd9a9e-643d-4eda-bd58-41058ad1a9a6" /> Asmodeus M Tail
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="VARIETY_M_Asmodeus_Tail" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="ffc0935c-375d-6f84-c13b-d545205f0301" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework_Tieflings/Asmodeus/Male/TAIL/VARIETY_M_Asmodeus_Tail.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework_Tieflings/Asmodeus/Male/TAIL/VARIETY_M_Asmodeus_Tail.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0ce5189d-ce77-ce73-b10a-0e124ca99b28" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="2b84c30d-0090-442e-aee1-09e3a97afd05" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_Asmodeus_Tail.Mesh.0" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Asmodeus FS Tail
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06204562 1.2481256 1.3678002" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.062045626 0.4081371 0.108967505" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="667a1269-b4eb-4f24-b2b0-a29acba97cae" /> Asmodeus FS Tail
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="VARIETY_FS_Asmodeus_Tail" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="6906e3cc-7b8d-a860-dccf-9ad5c87f0e13" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework_Tieflings/Asmodeus/FemaleStrong/TAIL/VARIETY_FS_Asmodeus_Tail.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework_Tieflings/Asmodeus/FemaleStrong/TAIL/VARIETY_FS_Asmodeus_Tail.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="e4014b59-402f-0762-c637-cfe1b281be6c" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0ce5189d-ce77-ce73-b10a-0e124ca99b28" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="50928caa-2239-4ac8-aa05-b23bab49e9a8" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_Asmodeus_Tail.Mesh.0" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Asmodeus MS Tail
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.055512078 1.3355108 1.3415414" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.055512078 0.5040517 0.108987615" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="d7845146-3146-4b5c-8f85-b8d09616a8cf" /> Asmodeus MS Tail
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="VARIETY_MS_Asmodeus_Tail" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="e79ec35d-aec2-59f7-3ad3-81fd9c2ccfae" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework_Tieflings/Asmodeus/MaleStrong/TAIL/VARIETY_MS_Asmodeus_Tail.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework_Tieflings/Asmodeus/MaleStrong/TAIL/VARIETY_MS_Asmodeus_Tail.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="238cc192-80b4-fd99-10f8-e265bf643901" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="278ad9f9-04a2-4035-b120-c6e912475366" />
+							<attribute id="ObjectID" type="FixedString" value="TIF_MS_NKD_Tail_A.TIF_MS_NKD_Tail_A_Mesh.0" />
+						</node>
+					</children>
+				</node>
+			<!-- Asmodeus End -->
+		<!-- Mephistopheles Start -->
+				<node id="Resource"> Mephistopheles F Tail
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
+					<attribute id="BoundsMax" type="fvec3" value="0.053680077 1.1736133 1.2248805" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05368012 0.41450235 0.06630516" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="8a9c5ac3-c9ef-4256-a5ce-e74b4bb764ab" /> Mephistopheles F Tail
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="VARIETY_F_Mephistopheles_Tail" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="63ac4e80-72f2-55bb-1fe7-eb8c7a7e020b" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework_Tieflings/Mephistopheles/Female/TAIL/VARIETY_F_Mephistopheles_Tail.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework_Tieflings/Mephistopheles/Female/TAIL/VARIETY_F_Mephistopheles_Tail.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725667" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="622f4ebc-4ed1-f6c8-c6be-685042309170" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0ce5189d-ce77-ce73-b10a-0e124ca99b28" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="17c5d57e-beeb-4ea1-8f98-709813156d71" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Mephistopheles_Tail.Mesh.0" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Mephistopheles M Tail 
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="f4648ee1-bb8a-1054-e18f-2dc61b7348ab" />
+					<attribute id="BoundsMax" type="fvec3" value="0.048339758 1.21575 1.3414863" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.048339758 0.34907287 0.080708206" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="f6c56a16-b440-4a94-b584-ac6eddde1bb6" /> Mephistopheles M Tail
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="VARIETY_M_Mephistopheles_Tail" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="ffc0935c-375d-6f84-c13b-d545205f0301" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework_Tieflings/Mephistopheles/Male/TAIL/VARIETY_M_Mephistopheles_Tail.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework_Tieflings/Mephistopheles/Male/TAIL/VARIETY_M_Mephistopheles_Tail.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0ce5189d-ce77-ce73-b10a-0e124ca99b28" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="5bd7aa0c-20df-41cf-90de-cbc9eb93d3cd" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_Mephistopheles_Tail.Mesh.0" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Mephistopheles FS Tail
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06204562 1.2481256 1.3678002" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.062045626 0.4081371 0.108967505" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="59b9f11f-cb0c-4934-8105-371b172bd7ba" /> Mephistopheles FS Tail
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="VARIETY_FS_Mephistopheles_Tail" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="6906e3cc-7b8d-a860-dccf-9ad5c87f0e13" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework_Tieflings/Mephistopheles/FemaleStrong/TAIL/VARIETY_FS_Mephistopheles_Tail.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework_Tieflings/Mephistopheles/FemaleStrong/TAIL/VARIETY_FS_Mephistopheles_Tail.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="e4014b59-402f-0762-c637-cfe1b281be6c" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0ce5189d-ce77-ce73-b10a-0e124ca99b28" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="0bfae6b3-0bf8-47d0-bee2-b2c2386f7f4e" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_Mephistopheles_Tail.Mesh.0" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Mephistopheles MS Tail
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.055512078 1.3355108 1.3415414" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.055512078 0.5040517 0.108987615" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="3fabb658-78ab-4c2f-ad27-5f14ecd4929a" /> Mephistopheles MS Tail
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="VARIETY_MS_Mephistopheles_Tail" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="e79ec35d-aec2-59f7-3ad3-81fd9c2ccfae" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework_Tieflings/Mephistopheles/MaleStrong/TAIL/VARIETY_MS_Mephistopheles_Tail.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework_Tieflings/Mephistopheles/MaleStrong/TAIL/VARIETY_MS_Mephistopheles_Tail.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="238cc192-80b4-fd99-10f8-e265bf643901" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="16bc0966-d9d2-49f1-ad9b-8cc2fdec9327" />
+							<attribute id="ObjectID" type="FixedString" value="TIF_MS_NKD_Tail_A.TIF_MS_NKD_Tail_A_Mesh.0" />
+						</node>
+					</children>
+				</node>
+			<!-- Mephistopheles End -->
+		<!-- Zariel Start -->
+				<node id="Resource"> Zariel F Tail
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
+					<attribute id="BoundsMax" type="fvec3" value="0.053680077 1.1736133 1.2248805" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.05368012 0.41450235 0.06630516" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="26721683-6933-422f-b297-8aa98faa424b" /> Zariel F Tail
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="VARIETY_F_Zariel_Tail" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="63ac4e80-72f2-55bb-1fe7-eb8c7a7e020b" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="Unassigned" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework_Tieflings/Zariel/Female/TAIL/VARIETY_F_Zariel_Tail.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework_Tieflings/Zariel/Female/TAIL/VARIETY_F_Zariel_Tail.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725667" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="622f4ebc-4ed1-f6c8-c6be-685042309170" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0ce5189d-ce77-ce73-b10a-0e124ca99b28" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="f3076cfc-0c64-4f7c-94f9-17ab305fcbdd" /> 
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Zariel_Tail.Mesh.0" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Zariel M Tail 
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="f4648ee1-bb8a-1054-e18f-2dc61b7348ab" />
+					<attribute id="BoundsMax" type="fvec3" value="0.048339758 1.21575 1.3414863" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.048339758 0.34907287 0.080708206" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="0e53b24e-29e2-499a-a65d-13e32f95d130" /> Zariel M Tail
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="VARIETY_M_Zariel_Tail" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="ffc0935c-375d-6f84-c13b-d545205f0301" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework_Tieflings/Zariel/Male/TAIL/VARIETY_M_Zariel_Tail.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework_Tieflings/Zariel/Male/TAIL/VARIETY_M_Zariel_Tail.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0ce5189d-ce77-ce73-b10a-0e124ca99b28" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="c99429be-ca16-45ae-96fb-de722490db95" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_Zariel_Tail.Mesh.0" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Zariel FS Tail
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06204562 1.2481256 1.3678002" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.062045626 0.4081371 0.108967505" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="afc3ff16-7c11-4def-bbb4-907e8a8cea37" /> Zariel FS Tail
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="VARIETY_FS_Zariel_Tail" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="6906e3cc-7b8d-a860-dccf-9ad5c87f0e13" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework_Tieflings/Zariel/FemaleStrong/TAIL/VARIETY_FS_Zariel_Tail.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework_Tieflings/Zariel/FemaleStrong/TAIL/VARIETY_FS_Zariel_Tail.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="e4014b59-402f-0762-c637-cfe1b281be6c" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0ce5189d-ce77-ce73-b10a-0e124ca99b28" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="1d2e57aa-dc55-4ade-a4a2-0ef6b5ebcd7f" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_Zariel_Tail.Mesh.0" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource"> Zariel MS Tail
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.055512078 1.3355108 1.3415414" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.055512078 0.5040517 0.108987615" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="1ef3e507-f6d3-49fb-8921-5c254ddadb19" /> Zariel MS Tail
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="VARIETY_MS_Zariel_Tail" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="e79ec35d-aec2-59f7-3ad3-81fd9c2ccfae" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework_Tieflings/Zariel/MaleStrong/TAIL/VARIETY_MS_Zariel_Tail.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework_Tieflings/Zariel/MaleStrong/TAIL/VARIETY_MS_Zariel_Tail.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="238cc192-80b4-fd99-10f8-e265bf643901" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="8e921e39-23e8-4dfe-a30f-95375fdf9321" />
+							<attribute id="ObjectID" type="FixedString" value="TIF_MS_NKD_Tail_A.TIF_MS_NKD_Tail_A_Mesh.0" />
+						</node>
+					</children>
+				</node>
+			<!-- Zariel End -->
+			</children>
+		</node>
+	</region>
+</save>
