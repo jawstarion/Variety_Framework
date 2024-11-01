@@ -1177,13 +1177,11 @@
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-					<attribute id="BoundsMax" type="fvec3" value="0.8776013 1.7627684 0.16541371" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.8776008 -0.009503422 -0.21891801" />
-					<attribute id="ClothColliderResourceID" type="FixedString" value="3a2117ae-6a3b-3afb-1249-8d894e45f6b6" />
+					<attribute id="BoundsMax" type="fvec3" value="0.72422916 1.5698102 0.12888119" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.72422916 -0.0035275714 -0.15861514" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="37dc6fdd-0838-0727-97f4-e201324bfe5b" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="73d6c483-39e4-45eb-bc96-618ed3a80901" />
-					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="VARIETY_F_Gityhanki_Body" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
@@ -1191,7 +1189,7 @@
 					<attribute id="SkeletonResource" type="FixedString" value="" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
-					<attribute id="SoftbodyResourceID" type="FixedString" value="7df148d5-3118-0b2a-79bc-c9947cb0cc18" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="15827dce-b0c0-c740-541b-03633a5a9c6d" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/GITHYANKI/Female/VARIETY_F_Gityhanki_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/GITHYANKI/Female/VARIETY_F_Gityhanki_Body.Dummy_Root.0" />
@@ -1213,9 +1211,9 @@
 					<attribute id="AttachBone" type="FixedString" value="" />
 					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
 					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
-					<attribute id="BoundsMax" type="fvec3" value="0.8939055 1.8765771 0.20022681" />
-					<attribute id="BoundsMin" type="fvec3" value="-0.8939065 -0.0031829742 -0.22867945" />
-					<attribute id="ClothColliderResourceID" type="FixedString" value="a0fd404d-95e0-f243-717d-6022f8d6b897" />
+					<attribute id="BoundsMax" type="fvec3" value="0.84070873 1.6707859 0.13419804" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.84070873 -0.008007877 -0.20971212" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="73baa883-3c64-0d0e-73dc-4597815b54c2" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="8cd97de5-e73a-402f-b6ce-453e5f077e32" /> Gityhanki M
@@ -1224,10 +1222,9 @@
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
-					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="24db7c92-bc91-a744-3500-2ac4377f1132" />
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
-					<attribute id="SoftbodyResourceID" type="FixedString" value="e28b7fa6-4e9f-1287-659a-a0dfd6277748" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/GITHYANKI/Male/VARIETY_M_Gityhanki_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/GITHYANKI/Male/VARIETY_M_Gityhanki_Body.Dummy_Root.0" />
