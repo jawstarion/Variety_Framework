@@ -8,7 +8,7 @@
         <node id="ModuleInfo">
           <attribute id="Author" type="LSString" value="jawstarion" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Description" type="LSString" value="Humans and (Half)Elves version of the Variety Framework" />
+          <attribute id="Description" type="LSString" value="Variety Framework code" />
           <attribute id="Folder" type="LSString" value="Variety_Framework" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="" />
