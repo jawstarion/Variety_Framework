@@ -3577,7 +3577,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="11e45752-2461-7620-717d-75c527e448f0" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="e263bb97-076e-49a8-8469-309845ebf041" /> Gold F
+					<attribute id="ID" type="FixedString" value="63fa5f84-6cf6-40d0-aafe-80b727cfa98c" /> Gold F
 					<attribute id="MaterialType" type="uint8" value="18" />
 					<attribute id="Name" type="LSString" value="VARIETY_F_DwarfGold_Body" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
