@@ -23,9 +23,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
 					<attribute id="Slot" type="FixedString" value="Unassigned" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/Asmodeus/Female/TAIL/VARIETY_F_Asmodeus_Tail.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/TAIL/VARIETY_F_Asmodeus_Tail.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/Asmodeus/Female/TAIL/VARIETY_F_Asmodeus_Tail.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/TAIL/VARIETY_F_Asmodeus_Tail.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725667" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -62,9 +62,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/Asmodeus/Male/TAIL/VARIETY_M_Asmodeus_Tail.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Male/TAIL/VARIETY_M_Asmodeus_Tail.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/Asmodeus/Male/TAIL/VARIETY_M_Asmodeus_Tail.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Male/TAIL/VARIETY_M_Asmodeus_Tail.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -98,9 +98,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/Asmodeus/FemaleStrong/TAIL/VARIETY_FS_Asmodeus_Tail.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/FemaleStrong/TAIL/VARIETY_FS_Asmodeus_Tail.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/Asmodeus/FemaleStrong/TAIL/VARIETY_FS_Asmodeus_Tail.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/FemaleStrong/TAIL/VARIETY_FS_Asmodeus_Tail.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -137,9 +137,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/Asmodeus/MaleStrong/TAIL/VARIETY_MS_Asmodeus_Tail.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/MaleStrong/TAIL/VARIETY_MS_Asmodeus_Tail.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/Asmodeus/MaleStrong/TAIL/VARIETY_MS_Asmodeus_Tail.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/MaleStrong/TAIL/VARIETY_MS_Asmodeus_Tail.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -174,9 +174,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
 					<attribute id="Slot" type="FixedString" value="Unassigned" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/Mephistopheles/Female/TAIL/VARIETY_F_Mephistopheles_Tail.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingMephistopheles/Female/TAIL/VARIETY_F_Mephistopheles_Tail.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/Mephistopheles/Female/TAIL/VARIETY_F_Mephistopheles_Tail.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingMephistopheles/Female/TAIL/VARIETY_F_Mephistopheles_Tail.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725667" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -213,9 +213,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/Mephistopheles/Male/TAIL/VARIETY_M_Mephistopheles_Tail.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingMephistopheles/Male/TAIL/VARIETY_M_Mephistopheles_Tail.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/Mephistopheles/Male/TAIL/VARIETY_M_Mephistopheles_Tail.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingMephistopheles/Male/TAIL/VARIETY_M_Mephistopheles_Tail.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -249,9 +249,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/Mephistopheles/FemaleStrong/TAIL/VARIETY_FS_Mephistopheles_Tail.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingMephistopheles/FemaleStrong/TAIL/VARIETY_FS_Mephistopheles_Tail.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/Mephistopheles/FemaleStrong/TAIL/VARIETY_FS_Mephistopheles_Tail.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingMephistopheles/FemaleStrong/TAIL/VARIETY_FS_Mephistopheles_Tail.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -288,9 +288,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/Mephistopheles/MaleStrong/TAIL/VARIETY_MS_Mephistopheles_Tail.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingMephistopheles/MaleStrong/TAIL/VARIETY_MS_Mephistopheles_Tail.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/Mephistopheles/MaleStrong/TAIL/VARIETY_MS_Mephistopheles_Tail.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingMephistopheles/MaleStrong/TAIL/VARIETY_MS_Mephistopheles_Tail.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -325,9 +325,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
 					<attribute id="Slot" type="FixedString" value="Unassigned" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/Zariel/Female/TAIL/VARIETY_F_Zariel_Tail.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/TAIL/VARIETY_F_Zariel_Tail.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/Zariel/Female/TAIL/VARIETY_F_Zariel_Tail.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/TAIL/VARIETY_F_Zariel_Tail.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725667" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -364,9 +364,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/Zariel/Male/TAIL/VARIETY_M_Zariel_Tail.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/TAIL/VARIETY_M_Zariel_Tail.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/Zariel/Male/TAIL/VARIETY_M_Zariel_Tail.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/TAIL/VARIETY_M_Zariel_Tail.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -400,9 +400,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/Zariel/FemaleStrong/TAIL/VARIETY_FS_Zariel_Tail.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/TAIL/VARIETY_FS_Zariel_Tail.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/Zariel/FemaleStrong/TAIL/VARIETY_FS_Zariel_Tail.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/TAIL/VARIETY_FS_Zariel_Tail.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -439,9 +439,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/Zariel/MaleStrong/TAIL/VARIETY_MS_Zariel_Tail.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/TAIL/VARIETY_MS_Zariel_Tail.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/Zariel/MaleStrong/TAIL/VARIETY_MS_Zariel_Tail.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/TAIL/VARIETY_MS_Zariel_Tail.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 					<children>
 						<node id="AnimationWaterfall">
