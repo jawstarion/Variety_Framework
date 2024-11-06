@@ -9,7 +9,7 @@
 				<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 				<attribute id="ID" type="FixedString" value="2090aee1-c814-4e6e-bd56-d5fc60b0e009" /> Asmodeus F Material
 				<attribute id="MaterialType" type="uint8" value="18" />
-				<attribute id="Name" type="LSString" value="VARIETY_F_Asmodeus_Body_Textures" />
+				<attribute id="Name" type="LSString" value="VARIETY_F_TieflingAsmodeus_Body_Textures" />
 				<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 				<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 					<children>
@@ -6114,9 +6114,9 @@
 			<children>	
 		<!-- Asmodeus Start -->
 				<node id="Resource"> Asmodeus F MSK 
-					<attribute id="Name" type="LSString" value="VARIETY_F_Asmodeus_MSK" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_TieflingAsmodeus_MSK" /> 
 					<attribute id="ID" type="FixedString" value="04a8ffe0-9ec5-4750-a26c-77e939db7a8e" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/VARIETY_F_Asmodeus_MSK.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/VARIETY_F_TieflingAsmodeus_MSK.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6128,9 +6128,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>	
 				<node id="Resource"> Asmodeus F NM
-					<attribute id="Name" type="LSString" value="VARIETY_F_Asmodeus_NM" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_TieflingAsmodeus_NM" /> 
 					<attribute id="ID" type="FixedString" value="50441df7-3186-40ff-8d72-125da06c2ccf" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/VARIETY_F_Asmodeus_NM.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/VARIETY_F_TieflingAsmodeus_NM.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6142,9 +6142,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>	
 				<node id="Resource"> Asmodeus F HMVY
-					<attribute id="Name" type="LSString" value="VARIETY_F_Asmodeus_HMVY" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_TieflingAsmodeus_HMVY" /> 
 					<attribute id="ID" type="FixedString" value="d24d5595-de87-4af4-a40a-887b2bc14608" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/VARIETY_F_Asmodeus_HMVY.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/VARIETY_F_TieflingAsmodeus_HMVY.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6156,9 +6156,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>
 				<node id="Resource"> Asmodeus F CLEA
-					<attribute id="Name" type="LSString" value="VARIETY_F_Asmodeus_CLEA" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_TieflingAsmodeus_CLEA" /> 
 					<attribute id="ID" type="FixedString" value="92b52fd2-a74b-4d99-b90c-ddbac5777084" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/VARIETY_F_Asmodeus_CLEA.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/VARIETY_F_TieflingAsmodeus_CLEA.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6170,9 +6170,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>
 				<node id="Resource"> Asmodeus F BM
-					<attribute id="Name" type="LSString" value="VARIETY_F_Asmodeus_BM" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_TieflingAsmodeus_BM" /> 
 					<attribute id="ID" type="FixedString" value="5ee4c822-b84d-4d9c-bde2-7cca7438ebbc" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/VARIETY_F_Asmodeus_BM.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/VARIETY_F_TieflingAsmodeus_BM.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6184,9 +6184,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>
 				<node id="Resource"> Asmodeus F Tattoo
-					<attribute id="Name" type="LSString" value="VARIETY_F_Asmodeus_Tattoo" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_TieflingAsmodeus_Tattoo" /> 
 					<attribute id="ID" type="FixedString" value="0cf24c61-bc56-4164-a503-a1ae42494e30" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/TATTOO/VARIETY_F_Asmodeus_Tattoo.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/TATTOO/VARIETY_F_TieflingAsmodeus_Tattoo.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="8192" /> 
 					<attribute id="Height" type="int32" value="10240" />				
@@ -7144,7 +7144,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="63d46070-c674-4d9c-8b36-0fe9ce947198" /> Asmodeus F
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="VARIETY_F_Asmodeus_Body" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_TieflingAsmodeus_Body" /> 
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -7152,9 +7152,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="e96eed75-850b-4497-b077-a8f62f731bf3" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/VARIETY_F_Asmodeus_Body.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/VARIETY_F_TieflingAsmodeus_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/VARIETY_F_Asmodeus_Body.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/VARIETY_F_TieflingAsmodeus_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
 					<children>
 						<node id="Base" />
@@ -7162,7 +7162,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="2090aee1-c814-4e6e-bd56-d5fc60b0e009" />
-							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Asmodeus_Body.Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingAsmodeus_Body.Mesh.0" />
 						</node>
 					</children>
 				</node>
