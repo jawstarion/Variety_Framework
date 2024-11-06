@@ -4077,7 +4077,7 @@
 				<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 				<attribute id="ID" type="FixedString" value="f3076cfc-0c64-4f7c-94f9-17ab305fcbdd" /> Zariel F Material
 				<attribute id="MaterialType" type="uint8" value="18" />
-				<attribute id="Name" type="LSString" value="VARIETY_F_Zariel_Body_Textures" />
+				<attribute id="Name" type="LSString" value="VARIETY_F_TieflingZariel_Body_Textures" />
 				<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 				<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 				<children>
@@ -4585,7 +4585,7 @@
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="c99429be-ca16-45ae-96fb-de722490db95" /> Zariel M Material
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="VARIETY_M_Zariel_Body_Textures" />
+					<attribute id="Name" type="LSString" value="VARIETY_M_TieflingZariel_Body_Textures" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
@@ -5093,7 +5093,7 @@
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="1d2e57aa-dc55-4ade-a4a2-0ef6b5ebcd7f" /> Zariel FS Material
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="VARIETY_FS_Zariel_Body_Textures" />
+					<attribute id="Name" type="LSString" value="VARIETY_FS_TieflingZariel_Body_Textures" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
@@ -5601,7 +5601,7 @@
 					<attribute id="DiffusionProfileUUID" type="FixedString" value="" />
 					<attribute id="ID" type="FixedString" value="8e921e39-23e8-4dfe-a30f-95375fdf9321" /> Zariel MS Material
 					<attribute id="MaterialType" type="uint8" value="18" />
-					<attribute id="Name" type="LSString" value="VARIETY_MS_Zariel_Body_Textures" />
+					<attribute id="Name" type="LSString" value="VARIETY_MS_TieflingZariel_Body_Textures" />
 					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Materials/Tattoos/Trips_Body_Tattoo.lsf" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 						<children>
@@ -6790,9 +6790,9 @@
 				<!-- Mephistopheles End -->
 			<!-- Zariel Start -->
 				<node id="Resource"> Zariel F MSK 
-					<attribute id="Name" type="LSString" value="VARIETY_F_Zariel_MSK" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_TieflingZariel_MSK" /> 
 					<attribute id="ID" type="FixedString" value="6a3ce354-af42-46b6-974d-e00e6f8a619d" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/VARIETY_F_Zariel_MSK.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/VARIETY_F_TieflingZariel_MSK.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6804,9 +6804,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>	
 				<node id="Resource"> Zariel F NM
-					<attribute id="Name" type="LSString" value="VARIETY_F_Zariel_NM" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_TieflingZariel_NM" /> 
 					<attribute id="ID" type="FixedString" value="d903fca8-e5dc-4c59-98a9-682d34cc0aee" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/VARIETY_F_Zariel_NM.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/VARIETY_F_TieflingZariel_NM.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6818,9 +6818,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>	
 				<node id="Resource"> Zariel F HMVY
-					<attribute id="Name" type="LSString" value="VARIETY_F_Zariel_HMVY" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_TieflingZariel_HMVY" /> 
 					<attribute id="ID" type="FixedString" value="98e22758-cc4b-4a0c-995d-424cbe09ae5e" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/VARIETY_F_Zariel_HMVY.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/VARIETY_F_TieflingZariel_HMVY.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6832,9 +6832,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>
 				<node id="Resource"> Zariel F CLEA
-					<attribute id="Name" type="LSString" value="VARIETY_F_Zariel_CLEA" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_TieflingZariel_CLEA" /> 
 					<attribute id="ID" type="FixedString" value="4cc9d0f3-c690-46b4-8afa-c200dbac21dc" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/VARIETY_F_Zariel_CLEA.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/VARIETY_F_TieflingZariel_CLEA.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6846,9 +6846,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>
 				<node id="Resource"> Zariel F BM
-					<attribute id="Name" type="LSString" value="VARIETY_F_Zariel_BM" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_TieflingZariel_BM" /> 
 					<attribute id="ID" type="FixedString" value="f4e07595-fe85-43c9-bf9e-bc2bba94e7aa" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/VARIETY_F_Zariel_BM.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/VARIETY_F_TieflingZariel_BM.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6860,9 +6860,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>
 				<node id="Resource"> Zariel F Tattoo
-					<attribute id="Name" type="LSString" value="VARIETY_F_Zariel_Tattoo" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_TieflingZariel_Tattoo" /> 
 					<attribute id="ID" type="FixedString" value="431dfd79-4ac3-4ca7-9b1d-716fff4ce03a" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/TATTOO/VARIETY_F_Zariel_Tattoo.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/TATTOO/VARIETY_F_TieflingZariel_Tattoo.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="8192" /> 
 					<attribute id="Height" type="int32" value="10240" />				
@@ -6874,9 +6874,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>	
 				<node id="Resource"> Zariel M MSK 
-					<attribute id="Name" type="LSString" value="VARIETY_M_Zariel_MSK" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_M_TieflingZariel_MSK" /> 
 					<attribute id="ID" type="FixedString" value="e325f410-dc5a-445d-83a9-7d9c249fe1fb" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/VARIETY_M_Zariel_MSK.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/VARIETY_M_TieflingZariel_MSK.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6888,9 +6888,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>	
 				<node id="Resource"> Zariel M NM
-					<attribute id="Name" type="LSString" value="VARIETY_M_Zariel_NM" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_M_TieflingZariel_NM" /> 
 					<attribute id="ID" type="FixedString" value="c8484bc1-de55-433d-94d4-194673c9ef67" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/VARIETY_M_Zariel_NM.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/VARIETY_M_TieflingZariel_NM.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6902,9 +6902,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>	
 				<node id="Resource"> Zariel M HMVY
-					<attribute id="Name" type="LSString" value="VARIETY_M_Zariel_HMVY" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_M_TieflingZariel_HMVY" /> 
 					<attribute id="ID" type="FixedString" value="f20f0a5e-3069-403a-977a-d38a55599091" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/VARIETY_M_Zariel_HMVY.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/VARIETY_M_TieflingZariel_HMVY.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6916,9 +6916,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>
 				<node id="Resource"> Zariel M CLEA
-					<attribute id="Name" type="LSString" value="VARIETY_M_Zariel_CLEA" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_M_TieflingZariel_CLEA" /> 
 					<attribute id="ID" type="FixedString" value="9b94f2e6-0965-4735-af2f-8c630e46bc61" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/VARIETY_M_Zariel_CLEA.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/VARIETY_M_TieflingZariel_CLEA.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6930,9 +6930,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>
 				<node id="Resource"> Zariel M BM
-					<attribute id="Name" type="LSString" value="VARIETY_M_Zariel_BM" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_M_TieflingZariel_BM" /> 
 					<attribute id="ID" type="FixedString" value="a1fe45a3-e341-4497-aa4f-bc06231620c1" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/VARIETY_M_Zariel_BM.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/VARIETY_M_TieflingZariel_BM.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6944,9 +6944,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>
 				<node id="Resource"> Zariel M Tattoo
-					<attribute id="Name" type="LSString" value="VARIETY_M_Zariel_Tattoo" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_M_TieflingZariel_Tattoo" /> 
 					<attribute id="ID" type="FixedString" value="4b9dc9ec-e501-4f38-9007-dc8371bddd35" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/TATTOO/VARIETY_M_Zariel_Tattoo.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/TATTOO/VARIETY_M_TieflingZariel_Tattoo.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="8192" /> 
 					<attribute id="Height" type="int32" value="10240" />				
@@ -6958,9 +6958,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>	
 				<node id="Resource"> Zariel FS MSK 
-					<attribute id="Name" type="LSString" value="VARIETY_FS_Zariel_MSK" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_FS_TieflingZariel_MSK" /> 
 					<attribute id="ID" type="FixedString" value="622dc516-14ff-46cb-b7ef-b7e5465571b4" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/VARIETY_FS_Zariel_MSK.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/VARIETY_FS_TieflingZariel_MSK.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6972,9 +6972,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>	
 				<node id="Resource"> Zariel FS NM
-					<attribute id="Name" type="LSString" value="VARIETY_FS_Zariel_NM" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_FS_TieflingZariel_NM" /> 
 					<attribute id="ID" type="FixedString" value="1784099f-7e6c-4f3a-bd38-8ec152d2ed72" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/VARIETY_FS_Zariel_NM.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/VARIETY_FS_TieflingZariel_NM.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -6986,9 +6986,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>	
 				<node id="Resource"> Zariel FS HMVY
-					<attribute id="Name" type="LSString" value="VARIETY_FS_Zariel_HMVY" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_FS_TieflingZariel_HMVY" /> 
 					<attribute id="ID" type="FixedString" value="e043dacf-6ea5-40ae-bcbf-be9165dfa487" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/VARIETY_FS_Zariel_HMVY.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/VARIETY_FS_TieflingZariel_HMVY.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -7000,9 +7000,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>
 				<node id="Resource"> Zariel FS CLEA
-					<attribute id="Name" type="LSString" value="VARIETY_FS_Zariel_CLEA" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_FS_TieflingZariel_CLEA" /> 
 					<attribute id="ID" type="FixedString" value="776c7c71-81da-4f24-8063-ef5fea371552" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/VARIETY_FS_Zariel_CLEA.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/VARIETY_FS_TieflingZariel_CLEA.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -7014,9 +7014,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>
 				<node id="Resource"> Zariel FS BM
-					<attribute id="Name" type="LSString" value="VARIETY_FS_Zariel_BM" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_FS_TieflingZariel_BM" /> 
 					<attribute id="ID" type="FixedString" value="c64631da-952e-4a7b-953c-bfe74da4f788" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/VARIETY_FS_Zariel_BM.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/VARIETY_FS_TieflingZariel_BM.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -7028,9 +7028,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>
 				<node id="Resource"> Zariel FS Tattoo
-					<attribute id="Name" type="LSString" value="VARIETY_FS_Zariel_Tattoo" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_FS_TieflingZariel_Tattoo" /> 
 					<attribute id="ID" type="FixedString" value="2187199f-48b8-4bd4-b486-3d62e9980eb0" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/TATTOO/VARIETY_FS_Zariel_Tattoo.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/TATTOO/VARIETY_FS_TieflingZariel_Tattoo.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="8192" /> 
 					<attribute id="Height" type="int32" value="10240" />				
@@ -7042,9 +7042,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>	
 				<node id="Resource"> Zariel MS MSK 
-					<attribute id="Name" type="LSString" value="VARIETY_MS_Zariel_MSK" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_MS_TieflingZariel_MSK" /> 
 					<attribute id="ID" type="FixedString" value="52cdd4c4-b98c-4cad-9651-026d497fe9cb" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/VARIETY_MS_Zariel_MSK.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/VARIETY_MS_TieflingZariel_MSK.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -7056,9 +7056,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>	
 				<node id="Resource"> Zariel MS NM
-					<attribute id="Name" type="LSString" value="VARIETY_MS_Zariel_NM" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_MS_TieflingZariel_NM" /> 
 					<attribute id="ID" type="FixedString" value="946a8173-47d4-4a7e-9bec-a7c2ee21f844" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/VARIETY_MS_Zariel_NM.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/VARIETY_MS_TieflingZariel_NM.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -7070,9 +7070,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>	
 				<node id="Resource"> Zariel MS HMVY
-					<attribute id="Name" type="LSString" value="VARIETY_MS_Zariel_HMVY" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_MS_TieflingZariel_HMVY" /> 
 					<attribute id="ID" type="FixedString" value="f9a844b0-0b71-40ce-b524-6e0c345ec9c3" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/VARIETY_MS_Zariel_HMVY.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/VARIETY_MS_TieflingZariel_HMVY.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -7084,9 +7084,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>
 				<node id="Resource"> Zariel MS CLEA
-					<attribute id="Name" type="LSString" value="VARIETY_MS_Zariel_CLEA" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_MS_TieflingZariel_CLEA" /> 
 					<attribute id="ID" type="FixedString" value="82f661bf-f937-4b6e-91cb-3734e879e571" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/VARIETY_MS_Zariel_CLEA.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/VARIETY_MS_TieflingZariel_CLEA.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -7098,9 +7098,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>
 				<node id="Resource"> Zariel MS BM
-					<attribute id="Name" type="LSString" value="VARIETY_MS_Zariel_BM" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_MS_TieflingZariel_BM" /> 
 					<attribute id="ID" type="FixedString" value="e2e7d3c8-c5a2-4216-a2ed-d5ebdb4bc0f5" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/VARIETY_MS_Zariel_BM.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/VARIETY_MS_TieflingZariel_BM.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -7112,9 +7112,9 @@
 					<attribute id="Type" type="int32" value="1" />
 				</node>
 				<node id="Resource"> Zariel MS Tattoo
-					<attribute id="Name" type="LSString" value="VARIETY_MS_Zariel_Tattoo" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_MS_TieflingZariel_Tattoo" /> 
 					<attribute id="ID" type="FixedString" value="64b6674f-e873-4fdf-a942-c4ad4b400708" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/TATTOO/VARIETY_MS_Zariel_Tattoo.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/TATTOO/VARIETY_MS_TieflingZariel_Tattoo.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="8192" /> 
 					<attribute id="Height" type="int32" value="10240" />				
@@ -7424,7 +7424,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="a7b3bddc-0162-4a44-884d-a463c57d344d" /> Zariel F
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="VARIETY_F_Zariel_Body" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_TieflingZariel_Body" /> 
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -7432,9 +7432,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="e96eed75-850b-4497-b077-a8f62f731bf3" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/VARIETY_F_Zariel_Body.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/VARIETY_F_TieflingZariel_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/VARIETY_F_Zariel_Body.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Female/VARIETY_F_TieflingZariel_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
 					<children>
 						<node id="Base" />
@@ -7442,7 +7442,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="f3076cfc-0c64-4f7c-94f9-17ab305fcbdd" />
-							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Zariel_Body.Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingZariel_Body.Mesh.0" />
 						</node>
 					</children>
 				</node>
@@ -7457,7 +7457,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="614127ea-422e-4c7e-a1c7-32f5d8d6f52b" /> Zariel M
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="VARIETY_M_Zariel_Body" />
+					<attribute id="Name" type="LSString" value="VARIETY_M_TieflingZariel_Body" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -7465,9 +7465,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="4350b66a-f56a-4f2a-9c60-b5a56609afa4" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/VARIETY_M_Zariel_Body.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/VARIETY_M_TieflingZariel_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/VARIETY_M_Zariel_Body.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/Male/VARIETY_M_TieflingZariel_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
 					<children>
 						<node id="Base" />
@@ -7475,7 +7475,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="c99429be-ca16-45ae-96fb-de722490db95" />
-							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_Zariel_Body.Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingZariel_Body.Mesh.0" />
 						</node>
 					</children>
 				</node>
@@ -7490,7 +7490,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="cff90bf5-8ed4-4d60-8814-a6525f6c97c8" /> Zariel FS
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="VARIETY_FS_Zariel_Body" />
+					<attribute id="Name" type="LSString" value="VARIETY_FS_TieflingZariel_Body" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -7498,9 +7498,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="NakedBody" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="aad0d538-f1ce-e669-7728-ec54575c0076" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/VARIETY_FS_Zariel_Body.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/VARIETY_FS_TieflingZariel_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/VARIETY_FS_Zariel_Body.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/FemaleStrong/VARIETY_FS_TieflingZariel_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540921856" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -7511,7 +7511,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="1d2e57aa-dc55-4ade-a4a2-0ef6b5ebcd7f" />
-							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_Zariel_Body.Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingZariel_Body.Mesh.0" />
 						</node>
 					</children>
 				</node>
@@ -7526,7 +7526,7 @@
 					<attribute id="HairType" type="uint8" value="0" />
 					<attribute id="ID" type="FixedString" value="c94809c9-8366-4b3f-832d-2ec8997c4419" /> Zariel MS
 					<attribute id="MaterialType" type="uint8" value="0" />
-					<attribute id="Name" type="LSString" value="VARIETY_MS_Zariel_Body" />
+					<attribute id="Name" type="LSString" value="VARIETY_MS_TieflingZariel_Body" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
 					<attribute id="RemapperSlotId" type="FixedString" value="" />
 					<attribute id="ScalpMaterialId" type="FixedString" value="" />
@@ -7534,9 +7534,9 @@
 					<attribute id="SkeletonSlot" type="FixedString" value="" />
 					<attribute id="Slot" type="FixedString" value="Unassigned" />
 					<attribute id="SoftbodyResourceID" type="FixedString" value="4922dac5-d910-64c8-32ce-7186d89c48f7" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/VARIETY_MS_Zariel_Body.GR2" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/VARIETY_MS_TieflingZariel_Body.GR2" />
 					<attribute id="SupportsVertexColorMask" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/VARIETY_MS_Zariel_Body.Dummy_Root.0" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingZariel/MaleStrong/VARIETY_MS_TieflingZariel_Body.Dummy_Root.0" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
 					<children>
 						<node id="AnimationWaterfall">
@@ -7547,7 +7547,7 @@
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="8e921e39-23e8-4dfe-a30f-95375fdf9321" />
-							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_Zariel_Body.Mesh.0" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingZariel_Body.Mesh.0" />
 						</node>
 					</children>
 				</node>
