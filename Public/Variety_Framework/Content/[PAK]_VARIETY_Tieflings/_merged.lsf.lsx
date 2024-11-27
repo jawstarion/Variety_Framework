@@ -352,7 +352,7 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="0cf24c61-bc56-4164-a503-a1ae42494e30" /> Tattoo
+							<attribute id="ID" type="FixedString" value="0fad994e-3677-4a7b-9d87-edb0a131f052" /> Tattoo
 							<attribute id="ParameterName" type="FixedString" value="Body_TattooAtlas" />
 						</node>
 						<node id="Texture2DParameters">
@@ -6185,7 +6185,7 @@
 				</node>
 				<node id="Resource"> Asmodeus F Tattoo
 					<attribute id="Name" type="LSString" value="VARIETY_F_TieflingAsmodeus_Tattoo" /> 
-					<attribute id="ID" type="FixedString" value="0cf24c61-bc56-4164-a503-a1ae42494e30" /> 
+					<attribute id="ID" type="FixedString" value="0fad994e-3677-4a7b-9d87-edb0a131f052" /> 
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TieflingAsmodeus/Female/TATTOO/VARIETY_F_TieflingAsmodeus_Tattoo.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="8192" /> 
