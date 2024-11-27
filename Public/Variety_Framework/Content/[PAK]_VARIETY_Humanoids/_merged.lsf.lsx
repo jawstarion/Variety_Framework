@@ -17052,7 +17052,7 @@
 				<node id="Resource"> High-Elf FS Tattoo
 					<attribute id="Name" type="LSString" value="VARIETY_FS_HighElf_Tattoo" /> 
 					<attribute id="ID" type="FixedString" value="03d48a5c-088c-4d50-b8cb-2a3c1db19408" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/ELF/HighElf/FemaleStrong/TATTOO/VARIETY_F_HighElf_Tattoo.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/ELF/HighElf/FemaleStrong/TATTOO/VARIETY_FS_HighElf_Tattoo.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="8192" /> 
 					<attribute id="Height" type="int32" value="10240" />				
@@ -17334,7 +17334,7 @@
 				<node id="Resource"> Wood-Elf FS Tattoo
 					<attribute id="Name" type="LSString" value="VARIETY_FS_WoodElf_Tattoo" /> 
 					<attribute id="ID" type="FixedString" value="b0e14272-938f-40a8-8e23-547e8b300058" /> 
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/ELF/WoodElf/FemaleStrong/TATTOO/VARIETY_F_WoodElf_Tattoo.dds" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/ELF/WoodElf/FemaleStrong/TATTOO/VARIETY_FS_WoodElf_Tattoo.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="8192" /> 
 					<attribute id="Height" type="int32" value="10240" />				
