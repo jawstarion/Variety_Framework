@@ -1206,6 +1206,26 @@
 							<attribute id="MaterialID" type="FixedString" value="a2ad2270-391f-4dd0-8cba-0a71b3018c58" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Githyanki_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="a2ad2270-391f-4dd0-8cba-0a71b3018c58" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Githyanki_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="a2ad2270-391f-4dd0-8cba-0a71b3018c58" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Githyanki_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="a2ad2270-391f-4dd0-8cba-0a71b3018c58" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Githyanki_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="a2ad2270-391f-4dd0-8cba-0a71b3018c58" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Githyanki_Body.Mesh_LOD4.4" />
+						</node>
                     </children>
                 </node>
 				<node id="Resource"> Githyanki M
@@ -1237,6 +1257,26 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="8efe62b6-216e-47f8-8e80-d499bd71e780" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_Githyanki_Body.Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="8efe62b6-216e-47f8-8e80-d499bd71e780" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_Githyanki_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="8efe62b6-216e-47f8-8e80-d499bd71e780" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_Githyanki_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="8efe62b6-216e-47f8-8e80-d499bd71e780" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_Githyanki_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="8efe62b6-216e-47f8-8e80-d499bd71e780" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_Githyanki_Body.Mesh_LOD4.4" />
 						</node>
 					</children>
 				</node>
