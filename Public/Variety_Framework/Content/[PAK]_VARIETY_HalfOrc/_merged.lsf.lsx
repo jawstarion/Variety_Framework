@@ -1207,6 +1207,26 @@
 							<attribute id="MaterialID" type="FixedString" value="f2a19638-c303-4ee4-ac06-408e1d59f694" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_HalfOrc_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="f2a19638-c303-4ee4-ac06-408e1d59f694" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_HalfOrc_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="f2a19638-c303-4ee4-ac06-408e1d59f694" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_HalfOrc_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="f2a19638-c303-4ee4-ac06-408e1d59f694" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_HalfOrc_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="f2a19638-c303-4ee4-ac06-408e1d59f694" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_HalfOrc_Body.Mesh_LOD4.4" />
+						</node>
                     </children>
                 </node>
 				<node id="Resource"> Half-Orc M
@@ -1239,6 +1259,26 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="ed9a1ef3-f603-4d46-a36a-51b965dca01d" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HalfOrc_Body.Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="ed9a1ef3-f603-4d46-a36a-51b965dca01d" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HalfOrc_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="ed9a1ef3-f603-4d46-a36a-51b965dca01d" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HalfOrc_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="ed9a1ef3-f603-4d46-a36a-51b965dca01d" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HalfOrc_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="ed9a1ef3-f603-4d46-a36a-51b965dca01d" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HalfOrc_Body.Mesh_LOD4.4" />
 						</node>
 					</children>
 				</node>
