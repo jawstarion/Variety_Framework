@@ -18585,6 +18585,26 @@
 							<attribute id="MaterialID" type="FixedString" value="13ba07c9-91f1-4e96-a4bd-0eb5743a97fb" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_DrowLolth_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="13ba07c9-91f1-4e96-a4bd-0eb5743a97fb" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_DrowLolth_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="13ba07c9-91f1-4e96-a4bd-0eb5743a97fb" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_DrowLolth_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="13ba07c9-91f1-4e96-a4bd-0eb5743a97fb" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_DrowLolth_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="13ba07c9-91f1-4e96-a4bd-0eb5743a97fb" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_DrowLolth_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> Drow Lolth M
@@ -18617,6 +18637,26 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="a1a8f3b5-8d18-48e1-8d38-a2504fd530b3" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_DrowLolth_Body.Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="a1a8f3b5-8d18-48e1-8d38-a2504fd530b3" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_DrowLolth_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="a1a8f3b5-8d18-48e1-8d38-a2504fd530b3" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_DrowLolth_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="a1a8f3b5-8d18-48e1-8d38-a2504fd530b3" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_DrowLolth_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="a1a8f3b5-8d18-48e1-8d38-a2504fd530b3" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_DrowLolth_Body.Mesh_LOD4.4" />
 						</node>
 					</children>
 				</node>
@@ -18654,6 +18694,26 @@
 							<attribute id="MaterialID" type="FixedString" value="a29502b5-d972-4193-81e9-455d34838ec7" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_DrowLolth_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="a29502b5-d972-4193-81e9-455d34838ec7" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_DrowLolth_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="a29502b5-d972-4193-81e9-455d34838ec7" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_DrowLolth_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="a29502b5-d972-4193-81e9-455d34838ec7" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_DrowLolth_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="a29502b5-d972-4193-81e9-455d34838ec7" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_DrowLolth_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> Drow Lolth MS
@@ -18690,6 +18750,26 @@
 							<attribute id="MaterialID" type="FixedString" value="38471514-2103-4189-889b-d7095bb14b7f" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_DrowLolth_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="38471514-2103-4189-889b-d7095bb14b7f" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_DrowLolth_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="38471514-2103-4189-889b-d7095bb14b7f" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_DrowLolth_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="38471514-2103-4189-889b-d7095bb14b7f" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_DrowLolth_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="38471514-2103-4189-889b-d7095bb14b7f" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_DrowLolth_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<!-- Drow Lolth End -->
@@ -18725,6 +18805,26 @@
 							<attribute id="MaterialID" type="FixedString" value="2d7030e1-fca8-4361-816b-93d4d1ae99e8" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_DrowSeldarine_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="2d7030e1-fca8-4361-816b-93d4d1ae99e8" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_DrowSeldarine_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="2d7030e1-fca8-4361-816b-93d4d1ae99e8" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_DrowSeldarine_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="2d7030e1-fca8-4361-816b-93d4d1ae99e8" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_DrowSeldarine_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="2d7030e1-fca8-4361-816b-93d4d1ae99e8" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_DrowSeldarine_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> Drow Seldarine M
@@ -18757,6 +18857,26 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="20a2a32f-1823-488f-a728-8572deb25e6d" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_DrowSeldarine_Body.Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="20a2a32f-1823-488f-a728-8572deb25e6d" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_DrowSeldarine_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="20a2a32f-1823-488f-a728-8572deb25e6d" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_DrowSeldarine_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="20a2a32f-1823-488f-a728-8572deb25e6d" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_DrowSeldarine_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="20a2a32f-1823-488f-a728-8572deb25e6d" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_DrowSeldarine_Body.Mesh_LOD4.4" />
 						</node>
 					</children>
 				</node>
@@ -18794,6 +18914,26 @@
 							<attribute id="MaterialID" type="FixedString" value="232af7f1-ea79-438b-97ad-f806feeb2977" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_DrowSeldarine_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="232af7f1-ea79-438b-97ad-f806feeb2977" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_DrowSeldarine_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="232af7f1-ea79-438b-97ad-f806feeb2977" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_DrowSeldarine_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="232af7f1-ea79-438b-97ad-f806feeb2977" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_DrowSeldarine_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="232af7f1-ea79-438b-97ad-f806feeb2977" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_DrowSeldarine_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> Drow Seldarine MS
@@ -18829,6 +18969,26 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="2ca9f6f6-3240-4d4a-b7ec-105e36ddad4c" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_DrowSeldarine_Body.Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="2ca9f6f6-3240-4d4a-b7ec-105e36ddad4c" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_DrowSeldarine_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="2ca9f6f6-3240-4d4a-b7ec-105e36ddad4c" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_DrowSeldarine_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="2ca9f6f6-3240-4d4a-b7ec-105e36ddad4c" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_DrowSeldarine_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="2ca9f6f6-3240-4d4a-b7ec-105e36ddad4c" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_DrowSeldarine_Body.Mesh_LOD4.4" />
 						</node>
 					</children>
 				</node>
