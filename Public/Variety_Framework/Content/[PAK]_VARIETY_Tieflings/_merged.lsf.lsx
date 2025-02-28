@@ -7164,6 +7164,26 @@
 							<attribute id="MaterialID" type="FixedString" value="2090aee1-c814-4e6e-bd56-d5fc60b0e009" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingAsmodeus_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="2090aee1-c814-4e6e-bd56-d5fc60b0e009" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingAsmodeus_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="2090aee1-c814-4e6e-bd56-d5fc60b0e009" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingAsmodeus_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="2090aee1-c814-4e6e-bd56-d5fc60b0e009" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingAsmodeus_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="2090aee1-c814-4e6e-bd56-d5fc60b0e009" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingAsmodeus_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> Asmodeus M
@@ -7196,6 +7216,26 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="2b84c30d-0090-442e-aee1-09e3a97afd05" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingAsmodeus_Body.Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="2b84c30d-0090-442e-aee1-09e3a97afd05" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingAsmodeus_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="2b84c30d-0090-442e-aee1-09e3a97afd05" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingAsmodeus_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="2b84c30d-0090-442e-aee1-09e3a97afd05" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingAsmodeus_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="2b84c30d-0090-442e-aee1-09e3a97afd05" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingAsmodeus_Body.Mesh_LOD4.4" />
 						</node>
 					</children>
 				</node>
@@ -7233,6 +7273,26 @@
 							<attribute id="MaterialID" type="FixedString" value="50928caa-2239-4ac8-aa05-b23bab49e9a8" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingAsmodeus_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="50928caa-2239-4ac8-aa05-b23bab49e9a8" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingAsmodeus_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="50928caa-2239-4ac8-aa05-b23bab49e9a8" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingAsmodeus_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="50928caa-2239-4ac8-aa05-b23bab49e9a8" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingAsmodeus_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="50928caa-2239-4ac8-aa05-b23bab49e9a8" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingAsmodeus_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> Asmodeus MS
@@ -7269,6 +7329,26 @@
 							<attribute id="MaterialID" type="FixedString" value="278ad9f9-04a2-4035-b120-c6e912475366" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingAsmodeus_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="278ad9f9-04a2-4035-b120-c6e912475366" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingAsmodeus_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="278ad9f9-04a2-4035-b120-c6e912475366" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingAsmodeus_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="278ad9f9-04a2-4035-b120-c6e912475366" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingAsmodeus_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="278ad9f9-04a2-4035-b120-c6e912475366" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingAsmodeus_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<!-- Asmodeus End -->
@@ -7304,6 +7384,26 @@
 							<attribute id="MaterialID" type="FixedString" value="17c5d57e-beeb-4ea1-8f98-709813156d71" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingMephistopheles_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="17c5d57e-beeb-4ea1-8f98-709813156d71" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingMephistopheles_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="17c5d57e-beeb-4ea1-8f98-709813156d71" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingMephistopheles_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="17c5d57e-beeb-4ea1-8f98-709813156d71" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingMephistopheles_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="17c5d57e-beeb-4ea1-8f98-709813156d71" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingMephistopheles_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> Mepphistopheles M
@@ -7336,6 +7436,26 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="5bd7aa0c-20df-41cf-90de-cbc9eb93d3cd" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingMephistopheles_Body.Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="5bd7aa0c-20df-41cf-90de-cbc9eb93d3cd" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingMephistopheles_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="5bd7aa0c-20df-41cf-90de-cbc9eb93d3cd" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingMephistopheles_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="5bd7aa0c-20df-41cf-90de-cbc9eb93d3cd" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingMephistopheles_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="5bd7aa0c-20df-41cf-90de-cbc9eb93d3cd" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingMephistopheles_Body.Mesh_LOD4.4" />
 						</node>
 					</children>
 				</node>
@@ -7373,6 +7493,26 @@
 							<attribute id="MaterialID" type="FixedString" value="0bfae6b3-0bf8-47d0-bee2-b2c2386f7f4e" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingMephistopheles_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="0bfae6b3-0bf8-47d0-bee2-b2c2386f7f4e" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingMephistopheles_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="0bfae6b3-0bf8-47d0-bee2-b2c2386f7f4e" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingMephistopheles_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="0bfae6b3-0bf8-47d0-bee2-b2c2386f7f4e" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingMephistopheles_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="0bfae6b3-0bf8-47d0-bee2-b2c2386f7f4e" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingMephistopheles_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> Mephistopheles MS
@@ -7409,6 +7549,26 @@
 							<attribute id="MaterialID" type="FixedString" value="16bc0966-d9d2-49f1-ad9b-8cc2fdec9327" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingMephistopheles_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="16bc0966-d9d2-49f1-ad9b-8cc2fdec9327" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingMephistopheles_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="16bc0966-d9d2-49f1-ad9b-8cc2fdec9327" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingMephistopheles_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="16bc0966-d9d2-49f1-ad9b-8cc2fdec9327" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingMephistopheles_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="16bc0966-d9d2-49f1-ad9b-8cc2fdec9327" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingMephistopheles_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<!-- Mephistopheles End -->
@@ -7444,6 +7604,26 @@
 							<attribute id="MaterialID" type="FixedString" value="f3076cfc-0c64-4f7c-94f9-17ab305fcbdd" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingZariel_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="f3076cfc-0c64-4f7c-94f9-17ab305fcbdd" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingZariel_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="f3076cfc-0c64-4f7c-94f9-17ab305fcbdd" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingZariel_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="f3076cfc-0c64-4f7c-94f9-17ab305fcbdd" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingZariel_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="f3076cfc-0c64-4f7c-94f9-17ab305fcbdd" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_TieflingZariel_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> Zariel M
@@ -7476,6 +7656,26 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="c99429be-ca16-45ae-96fb-de722490db95" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingZariel_Body.Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="c99429be-ca16-45ae-96fb-de722490db95" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingZariel_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="c99429be-ca16-45ae-96fb-de722490db95" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingZariel_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="c99429be-ca16-45ae-96fb-de722490db95" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingZariel_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="c99429be-ca16-45ae-96fb-de722490db95" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_TieflingZariel_Body.Mesh_LOD4.4" />
 						</node>
 					</children>
 				</node>
@@ -7513,6 +7713,26 @@
 							<attribute id="MaterialID" type="FixedString" value="1d2e57aa-dc55-4ade-a4a2-0ef6b5ebcd7f" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingZariel_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="1d2e57aa-dc55-4ade-a4a2-0ef6b5ebcd7f" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingZariel_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="1d2e57aa-dc55-4ade-a4a2-0ef6b5ebcd7f" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingZariel_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="1d2e57aa-dc55-4ade-a4a2-0ef6b5ebcd7f" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingZariel_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="1d2e57aa-dc55-4ade-a4a2-0ef6b5ebcd7f" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_TieflingZariel_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> Zariel MS
@@ -7548,6 +7768,26 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="8e921e39-23e8-4dfe-a30f-95375fdf9321" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingZariel_Body.Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="8e921e39-23e8-4dfe-a30f-95375fdf9321" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingZariel_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="8e921e39-23e8-4dfe-a30f-95375fdf9321" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingZariel_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="8e921e39-23e8-4dfe-a30f-95375fdf9321" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingZariel_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="8e921e39-23e8-4dfe-a30f-95375fdf9321" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_TieflingZariel_Body.Mesh_LOD4.4" />
 						</node>
 					</children>
 				</node>
