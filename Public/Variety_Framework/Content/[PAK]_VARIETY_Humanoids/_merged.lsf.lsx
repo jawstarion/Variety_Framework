@@ -20128,6 +20128,26 @@
 							<attribute id="MaterialID" type="FixedString" value="50f0564d-4125-49c3-a385-77cfb2e6b403" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Human_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="50f0564d-4125-49c3-a385-77cfb2e6b403" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Human_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="50f0564d-4125-49c3-a385-77cfb2e6b403" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Human_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="50f0564d-4125-49c3-a385-77cfb2e6b403" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Human_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="50f0564d-4125-49c3-a385-77cfb2e6b403" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Human_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> Human M
@@ -20160,6 +20180,26 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="570c64a5-b9ce-46ae-b104-51f4c6268bcc" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_Human_Body.Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="570c64a5-b9ce-46ae-b104-51f4c6268bcc" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_Human_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="570c64a5-b9ce-46ae-b104-51f4c6268bcc" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_Human_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="570c64a5-b9ce-46ae-b104-51f4c6268bcc" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_Human_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="570c64a5-b9ce-46ae-b104-51f4c6268bcc" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_Human_Body.Mesh_LOD4.4" />
 						</node>
 					</children>
 				</node>
@@ -20197,6 +20237,26 @@
 							<attribute id="MaterialID" type="FixedString" value="c22add21-937f-4c8c-8a1e-b078e62a1992" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_Human_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="c22add21-937f-4c8c-8a1e-b078e62a1992" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_Human_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="c22add21-937f-4c8c-8a1e-b078e62a1992" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_Human_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="c22add21-937f-4c8c-8a1e-b078e62a1992" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_Human_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="c22add21-937f-4c8c-8a1e-b078e62a1992" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_Human_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> Human MS
@@ -20232,6 +20292,26 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="f02bc6fc-a96e-46f0-8f01-2b7ac4f8c183" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_Human_Body.Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="f02bc6fc-a96e-46f0-8f01-2b7ac4f8c183" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_Human_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="f02bc6fc-a96e-46f0-8f01-2b7ac4f8c183" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_Human_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="f02bc6fc-a96e-46f0-8f01-2b7ac4f8c183" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_Human_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="f02bc6fc-a96e-46f0-8f01-2b7ac4f8c183" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_Human_Body.Mesh_LOD4.4" />
 						</node>
 					</children>
 				</node>	
