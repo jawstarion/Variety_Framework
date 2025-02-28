@@ -19026,6 +19026,26 @@
 							<attribute id="MaterialID" type="FixedString" value="833c75a7-cd00-4e3b-822b-015125382e52" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_HighElf_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="833c75a7-cd00-4e3b-822b-015125382e52" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_HighElf_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="833c75a7-cd00-4e3b-822b-015125382e52" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_HighElf_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="833c75a7-cd00-4e3b-822b-015125382e52" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_HighElf_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="833c75a7-cd00-4e3b-822b-015125382e52" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_HighElf_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> High-Elf M
@@ -19058,6 +19078,26 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="c0e6fae3-8a1b-453a-a26e-fd0786301ed0" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HighElf_Body.Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="c0e6fae3-8a1b-453a-a26e-fd0786301ed0" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HighElf_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="c0e6fae3-8a1b-453a-a26e-fd0786301ed0" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HighElf_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="c0e6fae3-8a1b-453a-a26e-fd0786301ed0" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HighElf_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="c0e6fae3-8a1b-453a-a26e-fd0786301ed0" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_HighElf_Body.Mesh_LOD4.4" />
 						</node>
 					</children>
 				</node>
@@ -19095,6 +19135,26 @@
 							<attribute id="MaterialID" type="FixedString" value="cc85c55c-b7a0-4a04-b5ec-49f2a5ec02ce" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_HighElf_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="cc85c55c-b7a0-4a04-b5ec-49f2a5ec02ce" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_HighElf_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="cc85c55c-b7a0-4a04-b5ec-49f2a5ec02ce" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_HighElf_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="cc85c55c-b7a0-4a04-b5ec-49f2a5ec02ce" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_HighElf_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="cc85c55c-b7a0-4a04-b5ec-49f2a5ec02ce" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_HighElf_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> High-Elf MS
@@ -19131,6 +19191,26 @@
 							<attribute id="MaterialID" type="FixedString" value="43567a48-2b9f-46b0-8f78-73e2597c10ea" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_HighElf_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="43567a48-2b9f-46b0-8f78-73e2597c10ea" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_HighElf_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="43567a48-2b9f-46b0-8f78-73e2597c10ea" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_HighElf_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="43567a48-2b9f-46b0-8f78-73e2597c10ea" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_HighElf_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="43567a48-2b9f-46b0-8f78-73e2597c10ea" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_HighElf_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<!-- High-Elf End -->
@@ -19166,6 +19246,26 @@
 							<attribute id="MaterialID" type="FixedString" value="35c8e2f5-3b33-4077-a555-39732160245e" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_WoodElf_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="35c8e2f5-3b33-4077-a555-39732160245e" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_WoodElf_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="35c8e2f5-3b33-4077-a555-39732160245e" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_WoodElf_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="35c8e2f5-3b33-4077-a555-39732160245e" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_WoodElf_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="35c8e2f5-3b33-4077-a555-39732160245e" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_WoodElf_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> Wood-Elf M
@@ -19198,6 +19298,26 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="76e0b122-7de0-4a5d-a144-246d2356a084" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_WoodElf_Body.Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="76e0b122-7de0-4a5d-a144-246d2356a084" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_WoodElf_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="76e0b122-7de0-4a5d-a144-246d2356a084" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_WoodElf_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="76e0b122-7de0-4a5d-a144-246d2356a084" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_WoodElf_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="76e0b122-7de0-4a5d-a144-246d2356a084" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_M_WoodElf_Body.Mesh_LOD4.4" />
 						</node>
 					</children>
 				</node>
@@ -19235,6 +19355,26 @@
 							<attribute id="MaterialID" type="FixedString" value="b684aa58-5d1e-4507-a4e4-c1a9eb02f4cf" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_WoodElf_Body.Mesh.0" />
 						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="b684aa58-5d1e-4507-a4e4-c1a9eb02f4cf" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_WoodElf_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="b684aa58-5d1e-4507-a4e4-c1a9eb02f4cf" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_WoodElf_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="b684aa58-5d1e-4507-a4e4-c1a9eb02f4cf" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_WoodElf_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="b684aa58-5d1e-4507-a4e4-c1a9eb02f4cf" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_FS_WoodElf_Body.Mesh_LOD4.4" />
+						</node>
 					</children>
 				</node>
 				<node id="Resource"> Wood-Elf MS
@@ -19270,6 +19410,26 @@
 							<attribute id="LOD" type="uint8" value="0" />
 							<attribute id="MaterialID" type="FixedString" value="2722b92a-d593-4b87-826c-1f6125a8bf78" />
 							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_WoodElf_Body.Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="2722b92a-d593-4b87-826c-1f6125a8bf78" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_WoodElf_Body.Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="2722b92a-d593-4b87-826c-1f6125a8bf78" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_WoodElf_Body.Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="2722b92a-d593-4b87-826c-1f6125a8bf78" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_WoodElf_Body.Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="2722b92a-d593-4b87-826c-1f6125a8bf78" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_MS_WoodElf_Body.Mesh_LOD4.4" />
 						</node>
 					</children>
 				</node>				
