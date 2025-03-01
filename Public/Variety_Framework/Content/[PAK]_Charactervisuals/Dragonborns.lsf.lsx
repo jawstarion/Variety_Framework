@@ -1959,7 +1959,7 @@
 				</node>
 				<node id="Resource"> Female White
 					<attribute id="BaseVisual" type="FixedString" value="479f2bd8-f3df-be15-861c-010d3bb8f494" />
-					<attribute id="BodySetVisual" type="FixedString" value="99911834-d7c2-481e-2eca-202587d6e3a8" />
+					<attribute id="BodySetVisual" type="FixedString" value="ae9ac304-d6cf-407f-9d6d-478de75016d7" />
 					<attribute id="ID" type="FixedString" value="9aa6009f-995f-5040-e88b-e737b2156e07" />
 					<attribute id="Name" type="LSString" value="Dragonborn_White_Female_Player_101f3588-8b35-4ca6-ba7b-33216158b3d4" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
