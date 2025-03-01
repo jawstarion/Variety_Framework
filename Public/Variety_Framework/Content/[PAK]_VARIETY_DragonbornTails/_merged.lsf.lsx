@@ -391,35 +391,35 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="9ffcc2fd-632b-40b3-9d5a-0c2f0bb7fcb1" /> NM
+							<attribute id="ID" type="FixedString" value="5a218e8a-83d8-47f6-916d-67c4e914173c" /> NM
 							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="9d76ceda-3570-498e-aa56-79dd9f90c5d3" /> MSK
+							<attribute id="ID" type="FixedString" value="452d4944-29f3-4d1f-bbd7-bfd32cff0e30" /> MSK
 							<attribute id="ParameterName" type="FixedString" value="CancelMSK" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="52a80511-5fde-4f7f-8397-73bd3dba2a0e" /> DMSK
+							<attribute id="ID" type="FixedString" value="2c42696f-a9f3-484f-bdb5-f21977564906" /> DMSK
 							<attribute id="ParameterName" type="FixedString" value="AccentMSK" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="4a541ea1-ca16-478c-9304-5d6f3030abe9" /> HMVY
+							<attribute id="ID" type="FixedString" value="c47f47ef-e2bb-45f6-be4d-8bb1778614e1" /> HMVY
 							<attribute id="ParameterName" type="FixedString" value="HMVY" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="e036157c-71da-4bb0-bcd8-0ed4d14a9f91" /> CTLO
+							<attribute id="ID" type="FixedString" value="f87cd6a9-b09d-4607-a45c-0b88e6e059d8" /> CTLO
 							<attribute id="ParameterName" type="FixedString" value="CLEA" />
 						</node>
 						<node id="Texture2DParameters">
@@ -608,11 +608,10 @@
 		<node id="TextureBank">
 			<children>
 		<!-- Female -->
-			<!-- Black -->
-				<node id="Resource"> Dragonborn Black F DMSK 
+				<node id="Resource"> Female Tail A DMSK 
 					<attribute id="Name" type="LSString" value="VARIETY_F_Dragonborn_DMSK" /> 
-					<attribute id="ID" type="FixedString" value="52a80511-5fde-4f7f-8397-73bd3dba2a0e" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlack/Female/VARIETY_F_DragonbornBlack_DMSK.dds" /> 
+					<attribute id="ID" type="FixedString" value="2c42696f-a9f3-484f-bdb5-f21977564906" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/TAIL/Female/VARIETY_F_Dragonborn_Tail_A_DMSK.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -623,10 +622,10 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
-				<node id="Resource"> Dragonborn F Black MSK 
+				<node id="Resource"> Female Tail A MSK 
 					<attribute id="Name" type="LSString" value="VARIETY_F_Dragonborn_MSK" /> 
-					<attribute id="ID" type="FixedString" value="9d76ceda-3570-498e-aa56-79dd9f90c5d3" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlack/Female/VARIETY_F_DragonbornBlack_MSK.dds" /> 
+					<attribute id="ID" type="FixedString" value="452d4944-29f3-4d1f-bbd7-bfd32cff0e30" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/TAIL/Female/VARIETY_F_Dragonborn_Tail_A_MSK.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -637,10 +636,10 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
-				<node id="Resource"> Dragonborn F Black NM
+				<node id="Resource"> Female Tail A NM
 					<attribute id="Name" type="LSString" value="VARIETY_F_Dragonborn_NM" /> 
-					<attribute id="ID" type="FixedString" value="9ffcc2fd-632b-40b3-9d5a-0c2f0bb7fcb1" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlack/Female/VARIETY_F_DragonbornBlack_NM.dds" /> 
+					<attribute id="ID" type="FixedString" value="5a218e8a-83d8-47f6-916d-67c4e914173c" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/TAIL/Female/VARIETY_F_Dragonborn_Tail_A_NM.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -651,10 +650,10 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
-				<node id="Resource"> Dragonborn F Black HMVY
+				<node id="Resource"> Female Tail A HMVY
 					<attribute id="Name" type="LSString" value="VARIETY_F_Dragonborn_HMVY" /> 
-					<attribute id="ID" type="FixedString" value="4a541ea1-ca16-478c-9304-5d6f3030abe9" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlack/Female/VARIETY_F_DragonbornBlack_HMVY.dds" /> 
+					<attribute id="ID" type="FixedString" value="c47f47ef-e2bb-45f6-be4d-8bb1778614e1" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/TAIL/Female/VARIETY_F_Dragonborn_Tail_A_HMVY.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -665,10 +664,10 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
-				<node id="Resource"> Dragonborn F Black CTLO
+				<node id="Resource"> Female Tail A CTLO
 					<attribute id="Name" type="LSString" value="VARIETY_F_Dragonborn_CTLO" /> 
-					<attribute id="ID" type="FixedString" value="e036157c-71da-4bb0-bcd8-0ed4d14a9f91" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlack/Female/VARIETY_F_DragonbornBlack_CTLO.dds" /> 
+					<attribute id="ID" type="FixedString" value="f87cd6a9-b09d-4607-a45c-0b88e6e059d8" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/TAIL/Female/VARIETY_F_Dragonborn_Tail_A_CTLO.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -717,13 +716,13 @@
 						<node id="ClothProxyMapping" />
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="0" />
-							<attribute id="MaterialID" type="FixedString" value="f6963e64-cc41-46ef-9020-5edc939583af" />
-							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Tail_A.DGB_F_NKD_Tail_A_Mesh.0" />
+							<attribute id="MaterialID" type="FixedString" value="51df9325-2a93-446d-af29-9891704c40fd" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Dragonborn_Tail_A.0" />
 						</node>
 						<node id="Objects">
 							<attribute id="LOD" type="uint8" value="1" />
-							<attribute id="MaterialID" type="FixedString" value="f6963e64-cc41-46ef-9020-5edc939583af" />
-							<attribute id="ObjectID" type="FixedString" value="DGB_F_NKD_Tail_A.DGB_F_NKD_Tail_A_Mesh_LOD1.1" />
+							<attribute id="MaterialID" type="FixedString" value="51df9325-2a93-446d-af29-9891704c40fd" />
+							<attribute id="ObjectID" type="FixedString" value="VARIETY_F_Dragonborn_Tail_A_LOD1.1" />
 						</node>
 					</children>
 				</node>
