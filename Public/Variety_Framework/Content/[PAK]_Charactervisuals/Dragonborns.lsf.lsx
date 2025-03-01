@@ -996,7 +996,7 @@
 				</node>
 				<node id="Resource"> Female Gold
 					<attribute id="BaseVisual" type="FixedString" value="479f2bd8-f3df-be15-861c-010d3bb8f494" />
-					<attribute id="BodySetVisual" type="FixedString" value="99911834-d7c2-481e-2eca-202587d6e3a8" />
+					<attribute id="BodySetVisual" type="FixedString" value="220475fc-0cc4-4c3a-91c3-edf0bc8d421a" />
 					<attribute id="ID" type="FixedString" value="156983cb-3f71-3a48-4b84-6ae09c8e92a4" />
 					<attribute id="Name" type="LSString" value="Dragonborn_Gold_Female_Player_4151f7ff-6b19-4d5f-aa54-bea130d0d0a1" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
