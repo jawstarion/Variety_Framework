@@ -1387,7 +1387,7 @@
 				</node>
 				<node id="Resource"> Female Red
 					<attribute id="BaseVisual" type="FixedString" value="479f2bd8-f3df-be15-861c-010d3bb8f494" />
-					<attribute id="BodySetVisual" type="FixedString" value="99911834-d7c2-481e-2eca-202587d6e3a8" />
+					<attribute id="BodySetVisual" type="FixedString" value="118180d5-963f-4678-acbd-efacb2a47d82" />
 					<attribute id="ID" type="FixedString" value="2f03dead-6333-3805-bd6a-bfa6700bb7bb" />
 					<attribute id="Name" type="LSString" value="Dragonborn_Red_Female_Player_9eddde7c-27b1-4e9a-8a19-0d9f3996ffa4" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -1799,7 +1799,7 @@
 				</node>
 				<node id="Resource"> Female Silver
 					<attribute id="BaseVisual" type="FixedString" value="479f2bd8-f3df-be15-861c-010d3bb8f494" />
-					<attribute id="BodySetVisual" type="FixedString" value="99911834-d7c2-481e-2eca-202587d6e3a8" />
+					<attribute id="BodySetVisual" type="FixedString" value="efde8a8e-5f3c-41f3-b428-209bd0a65561" />
 					<attribute id="ID" type="FixedString" value="0269a70b-0f3f-ae60-fbea-fff496f80a33" />
 					<attribute id="Name" type="LSString" value="Dragonborn_Silver_Female_Player_2ab6daaa-54b4-4836-92aa-3579da76f574" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
