@@ -391,8 +391,8 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="9ffcc2fd-632b-40b3-9d5a-0c2f0bb7fcb1" /> NM
-							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+							<attribute id="ID" type="FixedString" value="52a80511-5fde-4f7f-8397-73bd3dba2a0e" /> DMSK
+							<attribute id="ParameterName" type="FixedString" value="AccentMSK" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
@@ -405,8 +405,8 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="52a80511-5fde-4f7f-8397-73bd3dba2a0e" /> DMSK
-							<attribute id="ParameterName" type="FixedString" value="AccentMSK" />
+							<attribute id="ID" type="FixedString" value="e036157c-71da-4bb0-bcd8-0ed4d14a9f91" /> CTLO
+							<attribute id="ParameterName" type="FixedString" value="CLEA" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
@@ -419,8 +419,8 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="e036157c-71da-4bb0-bcd8-0ed4d14a9f91" /> CTLO
-							<attribute id="ParameterName" type="FixedString" value="CLEA" />
+							<attribute id="ID" type="FixedString" value="9ffcc2fd-632b-40b3-9d5a-0c2f0bb7fcb1" /> NM
+							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="False" />
@@ -987,8 +987,8 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="074fe766-6d9b-4b51-9af5-ee2f3a647e2e" /> NM
-							<attribute id="ParameterName" type="FixedString" value="normalmap" />
+							<attribute id="ID" type="FixedString" value="04a7b0b4-a570-454d-a1d1-d52cf4cf6b1e" /> DMSK
+							<attribute id="ParameterName" type="FixedString" value="AccentMSK" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
@@ -1001,8 +1001,8 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="04a7b0b4-a570-454d-a1d1-d52cf4cf6b1e" /> DMSK
-							<attribute id="ParameterName" type="FixedString" value="AccentMSK" />
+							<attribute id="ID" type="FixedString" value="13e4ae5d-5a4a-476d-af23-a90ea9d0177c" /> CTLO
+							<attribute id="ParameterName" type="FixedString" value="CLEA" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="True" />
@@ -1015,8 +1015,8 @@
 							<attribute id="Enabled" type="bool" value="True" />
 							<attribute id="ExportAsPreset" type="bool" value="True" />
 							<attribute id="GroupName" type="FixedString" value="01Texture Maps" />
-							<attribute id="ID" type="FixedString" value="13e4ae5d-5a4a-476d-af23-a90ea9d0177c" /> CTLO
-							<attribute id="ParameterName" type="FixedString" value="CLEA" />
+							<attribute id="ID" type="FixedString" value="074fe766-6d9b-4b51-9af5-ee2f3a647e2e" /> NM
+							<attribute id="ParameterName" type="FixedString" value="normalmap" />
 						</node>
 						<node id="Texture2DParameters">
 							<attribute id="Enabled" type="bool" value="False" />
@@ -1206,7 +1206,7 @@
 		<!-- Female -->
 			<!-- Black -->
 				<node id="Resource"> Dragonborn Black F DMSK 
-					<attribute id="Name" type="LSString" value="VARIETY_F_Dragonborn_DMSK" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_DragonbornBlack_DMSK" /> 
 					<attribute id="ID" type="FixedString" value="52a80511-5fde-4f7f-8397-73bd3dba2a0e" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlack/Female/VARIETY_F_DragonbornBlack_DMSK.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
@@ -1219,8 +1219,8 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
-				<node id="Resource"> Dragonborn F Black MSK 
-					<attribute id="Name" type="LSString" value="VARIETY_F_Dragonborn_MSK" /> 
+				<node id="Resource"> Dragonborn Black F MSK 
+					<attribute id="Name" type="LSString" value="VARIETY_F_DragonbornBlack_MSK" /> 
 					<attribute id="ID" type="FixedString" value="9d76ceda-3570-498e-aa56-79dd9f90c5d3" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlack/Female/VARIETY_F_DragonbornBlack_MSK.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
@@ -1233,36 +1233,8 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
-				<node id="Resource"> Dragonborn F Black NM
-					<attribute id="Name" type="LSString" value="VARIETY_F_Dragonborn_NM" /> 
-					<attribute id="ID" type="FixedString" value="9ffcc2fd-632b-40b3-9d5a-0c2f0bb7fcb1" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlack/Female/VARIETY_F_DragonbornBlack_NM.dds" /> 
-					<attribute id="Format" type="uint32" value="64" /> 
-					<attribute id="Width" type="int32" value="4096" /> 
-					<attribute id="Height" type="int32" value="4096" />				
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="SRGB" type="bool" value="False" /> 
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="" />
-					<attribute id="Type" type="int32" value="1" />
-				</node>
-				<node id="Resource"> Dragonborn F Black HMVY
-					<attribute id="Name" type="LSString" value="VARIETY_F_Dragonborn_HMVY" /> 
-					<attribute id="ID" type="FixedString" value="4a541ea1-ca16-478c-9304-5d6f3030abe9" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlack/Female/VARIETY_F_DragonbornBlack_HMVY.dds" /> 
-					<attribute id="Format" type="uint32" value="64" /> 
-					<attribute id="Width" type="int32" value="4096" /> 
-					<attribute id="Height" type="int32" value="4096" />				
-					<attribute id="Depth" type="int32" value="1" />
-					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="SRGB" type="bool" value="False" /> 
-					<attribute id="Streaming" type="bool" value="True" />
-					<attribute id="Template" type="FixedString" value="" />
-					<attribute id="Type" type="int32" value="1" />
-				</node>
-				<node id="Resource"> Dragonborn F Black CTLO
-					<attribute id="Name" type="LSString" value="VARIETY_F_Dragonborn_CTLO" /> 
+				<node id="Resource"> Dragonborn Black F CTLO
+					<attribute id="Name" type="LSString" value="VARIETY_F_DragonbornBlack_CTLO" /> 
 					<attribute id="ID" type="FixedString" value="e036157c-71da-4bb0-bcd8-0ed4d14a9f91" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlack/Female/VARIETY_F_DragonbornBlack_CTLO.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
@@ -1275,9 +1247,37 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
+				<node id="Resource"> Dragonborn Black F HMVY
+					<attribute id="Name" type="LSString" value="VARIETY_F_DragonbornBlack_HMVY" /> 
+					<attribute id="ID" type="FixedString" value="4a541ea1-ca16-478c-9304-5d6f3030abe9" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlack/Female/VARIETY_F_DragonbornBlack_HMVY.dds" /> 
+					<attribute id="Format" type="uint32" value="64" /> 
+					<attribute id="Width" type="int32" value="4096" /> 
+					<attribute id="Height" type="int32" value="4096" />				
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="False" /> 
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+				</node>
+				<node id="Resource"> Dragonborn Black F NM
+					<attribute id="Name" type="LSString" value="VARIETY_F_DragonbornBlack_NM" /> 
+					<attribute id="ID" type="FixedString" value="9ffcc2fd-632b-40b3-9d5a-0c2f0bb7fcb1" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlack/Female/VARIETY_F_DragonbornBlack_NM.dds" /> 
+					<attribute id="Format" type="uint32" value="64" /> 
+					<attribute id="Width" type="int32" value="4096" /> 
+					<attribute id="Height" type="int32" value="4096" />				
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="False" /> 
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+				</node>
 			<!-- Blue -->
 				<node id="Resource"> Dragonborn Blue F DMSK 
-					<attribute id="Name" type="LSString" value="VARIETY_F_Dragonborn_DMSK" /> 
+					<attribute id="Name" type="LSString" value="VARIETY_F_DragonbornBlue_DMSK" /> 
 					<attribute id="ID" type="FixedString" value="04a7b0b4-a570-454d-a1d1-d52cf4cf6b1e" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlue/Female/VARIETY_F_DragonbornBlue_DMSK.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
@@ -1290,8 +1290,8 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
-				<node id="Resource"> Dragonborn F Blue MSK 
-					<attribute id="Name" type="LSString" value="VARIETY_F_Dragonborn_MSK" /> 
+				<node id="Resource"> Dragonborn Blue F MSK 
+					<attribute id="Name" type="LSString" value="VARIETY_F_DragonbornBlue_MSK" /> 
 					<attribute id="ID" type="FixedString" value="9f670700-7022-4a15-a9c2-04276d1a237d" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlue/Female/VARIETY_F_DragonbornBlue_MSK.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
@@ -1304,10 +1304,10 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
-				<node id="Resource"> Dragonborn F Blue NM
-					<attribute id="Name" type="LSString" value="VARIETY_F_Dragonborn_NM" /> 
-					<attribute id="ID" type="FixedString" value="074fe766-6d9b-4b51-9af5-ee2f3a647e2e" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlue/Female/VARIETY_F_DragonbornBlue_NM.dds" /> 
+				<node id="Resource"> Dragonborn Blue F CTLO
+					<attribute id="Name" type="LSString" value="VARIETY_F_DragonbornBlue_CTLO" /> 
+					<attribute id="ID" type="FixedString" value="13e4ae5d-5a4a-476d-af23-a90ea9d0177c" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlue/Female/VARIETY_F_DragonbornBlue_CTLO.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
@@ -1318,8 +1318,8 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
-				<node id="Resource"> Dragonborn F Blue HMVY
-					<attribute id="Name" type="LSString" value="VARIETY_F_Dragonborn_HMVY" /> 
+				<node id="Resource"> Dragonborn Blue F HMVY
+					<attribute id="Name" type="LSString" value="VARIETY_F_DragonbornBlue_HMVY" /> 
 					<attribute id="ID" type="FixedString" value="977f24f5-ca80-4e3b-be3b-e1ec46cf059c" />
 					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlue/Female/VARIETY_F_DragonbornBlue_HMVY.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
@@ -1332,10 +1332,10 @@
 					<attribute id="Template" type="FixedString" value="" />
 					<attribute id="Type" type="int32" value="1" />
 				</node>
-				<node id="Resource"> Dragonborn F Blue CTLO
-					<attribute id="Name" type="LSString" value="VARIETY_F_Dragonborn_CTLO" /> 
-					<attribute id="ID" type="FixedString" value="13e4ae5d-5a4a-476d-af23-a90ea9d0177c" />
-					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlue/Female/VARIETY_F_DragonbornBlue_CTLO.dds" /> 
+				<node id="Resource"> Dragonborn Blue F NM
+					<attribute id="Name" type="LSString" value="VARIETY_F_DragonbornBlue_NM" /> 
+					<attribute id="ID" type="FixedString" value="074fe766-6d9b-4b51-9af5-ee2f3a647e2e" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DRAGONBORN/DragonbornBlue/Female/VARIETY_F_DragonbornBlue_NM.dds" /> 
 					<attribute id="Format" type="uint32" value="64" /> 
 					<attribute id="Width" type="int32" value="4096" /> 
 					<attribute id="Height" type="int32" value="4096" />				
