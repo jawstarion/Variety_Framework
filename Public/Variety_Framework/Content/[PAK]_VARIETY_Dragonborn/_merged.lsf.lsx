@@ -1398,7 +1398,7 @@
 					<attribute id="ClothColliderResourceID" type="FixedString" value="3a2117ae-6a3b-3afb-1249-8d894e45f6b6" />
 					<attribute id="HairPresetResourceId" type="FixedString" value="" />
 					<attribute id="HairType" type="uint8" value="0" />
-					<attribute id="ID" type="FixedString" value="9da7236b-4cdd-4cd5-b03a-a72042d04398" /> Dragonborn F Blue
+					<attribute id="ID" type="FixedString" value="2445b460-38f9-454f-a904-6e665bb9b40e" /> Dragonborn F Blue
 					<attribute id="MaterialType" type="uint8" value="0" />
 					<attribute id="Name" type="LSString" value="VARIETY_F_DragonbornBue_Body" />
 					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />

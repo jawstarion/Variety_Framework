@@ -167,7 +167,7 @@
 				</node>
 				<node id="Resource"> Female Blue
 					<attribute id="BaseVisual" type="FixedString" value="479f2bd8-f3df-be15-861c-010d3bb8f494" />
-					<attribute id="BodySetVisual" type="FixedString" value="99911834-d7c2-481e-2eca-202587d6e3a8" />
+					<attribute id="BodySetVisual" type="FixedString" value="2445b460-38f9-454f-a904-6e665bb9b40e" />
 					<attribute id="ID" type="FixedString" value="1a268ce1-8b64-9957-b677-5c095ee858bd" />
 					<attribute id="Name" type="LSString" value="Dragonborn_Blue_Female_Player_834579dd-3f0c-495f-be61-721854a279ce" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
