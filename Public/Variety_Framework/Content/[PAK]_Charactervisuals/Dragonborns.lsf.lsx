@@ -327,7 +327,7 @@
 				</node>
 				<node id="Resource"> Female Brass
 					<attribute id="BaseVisual" type="FixedString" value="479f2bd8-f3df-be15-861c-010d3bb8f494" />
-					<attribute id="BodySetVisual" type="FixedString" value="99911834-d7c2-481e-2eca-202587d6e3a8" />
+					<attribute id="BodySetVisual" type="FixedString" value="157fdeac-a5bf-4ce6-a88e-0f931e883b72" />
 					<attribute id="ID" type="FixedString" value="cfd1bccf-42f3-5948-9ef3-6ede68b7aa6b" />
 					<attribute id="Name" type="LSString" value="Dragonborn_Brass_Female_Player_1b702a85-60f3-4197-9e58-bb87901a3f48" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -676,7 +676,7 @@
 				</node>
 				<node id="Resource"> Female Bronze
 					<attribute id="BaseVisual" type="FixedString" value="479f2bd8-f3df-be15-861c-010d3bb8f494" />
-					<attribute id="BodySetVisual" type="FixedString" value="99911834-d7c2-481e-2eca-202587d6e3a8" />
+					<attribute id="BodySetVisual" type="FixedString" value="df1bf8fd-8a7f-451b-a056-a9febd9e0c18" />
 					<attribute id="ID" type="FixedString" value="123464e8-4abd-ba0e-d913-f5b285af3485" />
 					<attribute id="Name" type="LSString" value="Dragonborn_Bronze_Female_Player_0b77848f-dd46-42d3-a902-f10ed9457590" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
