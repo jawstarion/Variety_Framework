@@ -836,7 +836,7 @@
 				</node>
 				<node id="Resource"> Female Copper
 					<attribute id="BaseVisual" type="FixedString" value="479f2bd8-f3df-be15-861c-010d3bb8f494" />
-					<attribute id="BodySetVisual" type="FixedString" value="99911834-d7c2-481e-2eca-202587d6e3a8" />
+					<attribute id="BodySetVisual" type="FixedString" value="6f7c690d-6c1d-4175-af15-3695e5a2e62e" />
 					<attribute id="ID" type="FixedString" value="9d609ac8-4942-d1b3-4f5e-4aa1ad44f8ab" />
 					<attribute id="Name" type="LSString" value="Dragonborn_Copper_Female_Player_1d8afdc2-1403-4570-b7ce-3f3ae94f325b" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
