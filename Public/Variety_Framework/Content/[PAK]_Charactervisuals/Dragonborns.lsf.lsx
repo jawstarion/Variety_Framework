@@ -2637,7 +2637,7 @@
 				</node>
 				<node id="Resource"> Male Brass
 					<attribute id="BaseVisual" type="FixedString" value="61889c0b-81c3-730a-7bbc-805119a34957" />
-					<attribute id="BodySetVisual" type="FixedString" value="9e557ffd-9dd2-863b-876a-1648325850e5" />
+					<attribute id="BodySetVisual" type="FixedString" value="2ce1fd10-bfdb-4322-aeb2-bc3fbfe3afe4" />
 					<attribute id="ID" type="FixedString" value="0b17ddc5-d9d0-7525-5f4f-b3af3bb1a466" />
 					<attribute id="Name" type="LSString" value="Dragonborn_Brass_Male_Player_da2036b9-1602-4262-a82e-d16e6ea181f2" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
