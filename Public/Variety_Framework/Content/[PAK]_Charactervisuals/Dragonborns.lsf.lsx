@@ -3544,7 +3544,7 @@
 				</node>
 				<node id="Resource"> Male Silver
 					<attribute id="BaseVisual" type="FixedString" value="61889c0b-81c3-730a-7bbc-805119a34957" />
-					<attribute id="BodySetVisual" type="FixedString" value="9e557ffd-9dd2-863b-876a-1648325850e5" />
+					<attribute id="BodySetVisual" type="FixedString" value="0bde4123-505b-4894-8c84-a147a1b5aa72" />
 					<attribute id="ID" type="FixedString" value="fb99d424-6e8e-a9da-a74c-24b1f126900e" />
 					<attribute id="Name" type="LSString" value="Dragonborn_Silver_Male_Player_8b607fe5-7217-4975-872c-f380f9a52041" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
