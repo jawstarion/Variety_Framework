@@ -3007,7 +3007,7 @@
 				</node>
 				<node id="Resource"> Male Gold
 					<attribute id="BaseVisual" type="FixedString" value="61889c0b-81c3-730a-7bbc-805119a34957" />
-					<attribute id="BodySetVisual" type="FixedString" value="9e557ffd-9dd2-863b-876a-1648325850e5" />
+					<attribute id="BodySetVisual" type="FixedString" value="f59e830b-13e4-447d-8e4f-ae114e330bcb" />
 					<attribute id="ID" type="FixedString" value="10c7ee0d-736b-e14d-6006-95556005b870" />
 					<attribute id="Name" type="LSString" value="Dragonborn_Gold_Male_Player_d30bb765-ecb4-4029-94c2-cfdcf4b2b75f" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
