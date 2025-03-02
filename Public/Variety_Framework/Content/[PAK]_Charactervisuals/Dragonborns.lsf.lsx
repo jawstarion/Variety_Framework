@@ -2882,7 +2882,7 @@
 				</node>
 				<node id="Resource"> Male Copper
 					<attribute id="BaseVisual" type="FixedString" value="61889c0b-81c3-730a-7bbc-805119a34957" />
-					<attribute id="BodySetVisual" type="FixedString" value="9e557ffd-9dd2-863b-876a-1648325850e5" />
+					<attribute id="BodySetVisual" type="FixedString" value="524592fc-40da-4e46-8e7e-5dbce326f3a2" />
 					<attribute id="ID" type="FixedString" value="b16fb1db-e3d5-81f8-b665-b11f7ebf5a19" />
 					<attribute id="Name" type="LSString" value="Dragonborn_Copper_Male_Player_4de6d8b2-d0c3-49c1-b332-b3761cfcfb33" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
