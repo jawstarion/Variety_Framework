@@ -2512,7 +2512,7 @@
 				</node>
 				<node id="Resource"> Male Blue
 					<attribute id="BaseVisual" type="FixedString" value="61889c0b-81c3-730a-7bbc-805119a34957" />
-					<attribute id="BodySetVisual" type="FixedString" value="9e557ffd-9dd2-863b-876a-1648325850e5" />
+					<attribute id="BodySetVisual" type="FixedString" value="a8e4a611-405a-4086-8f38-8f7e9aba5529" />
 					<attribute id="ID" type="FixedString" value="af057dec-6c50-930d-ba8c-3833f91af504" />
 					<attribute id="Name" type="LSString" value="Dragonborn_Blue_Male_Player_e7efb92e-c944-4840-abf1-e125a7436b4e" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
